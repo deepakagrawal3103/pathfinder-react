@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1766218132187,
+    "name": "ad",
+    "email": "jaiswalomp1234",
+    "password": "$2b$10$1s5QVStWmLQdRawQcAwCVeSg6tMs93oqCzFEygTYWBesz/dTfyV8q",
+    "education": "btech",
+    "location": "indore"
+  },
+  {
+    "id": 1766375860942,
+    "name": "Bhumika Verma",
+    "email": "chandniyadav162@gmail.com",
+    "password": "$2b$10$AA3UQzR.ENXDSxtVWHngWOu8ZzPNRy9kquO3S8Y7.v1n7MIk1YtDW",
+    "education": "b.tech cse",
+    "location": "India"
+  },
+  {
+    "id": 1766375942361,
+    "name": "ada",
+    "email": "chandniyad62@gmail.com",
+    "password": "$2b$10$JqRYhBSfBZQFVc/VBbKMKesaCNRWOAaQic8Fhxp5H5tN38VmE/g7a",
+    "education": "b.tech cse",
+    "location": "India"
+  },
+  {
+    "id": 1766377807247,
+    "name": "Chandni Yadav",
+    "email": "chandni162@gmail.com",
+    "password": "$2b$10$VCdYvtcNW/LXvuHzCws8YOyXQCDqyJSkE.oE9Hcq2076nUzXA8kli",
+    "education": "b.tech cse",
+    "location": "India"
+  }
+]

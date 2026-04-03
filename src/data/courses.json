@@ -1,0 +1,5060 @@
+[
+  {
+    "career_id": "C001",
+    "career_name": "Computer Science Engineering (CSE)",
+    "description": "A professional role focused on computer science engineering principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C002",
+    "career_name": "Mechanical Engineering",
+    "description": "This career involves mechanical engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C003",
+    "career_name": "Civil Engineering",
+    "description": "This career involves civil engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C004",
+    "career_name": "Electrical Engineering",
+    "description": "This career involves electrical engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C005",
+    "career_name": "Electronics & Communication Engineering (ECE)",
+    "description": "A professional role focused on electronics & communication engineering principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C006",
+    "career_name": "Information Technology",
+    "description": "A professional role focused on information technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C007",
+    "career_name": "Chemical Engineering",
+    "description": "This career involves chemical engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Chemistry"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C008",
+    "career_name": "Aeronautical Engineering",
+    "description": "This career involves aeronautical engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C009",
+    "career_name": "Automobile Engineering",
+    "description": "This career involves automobile engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C010",
+    "career_name": "Marine Engineering",
+    "description": "This career involves marine engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C011",
+    "career_name": "Biotechnology Engineering",
+    "description": "A professional role focused on biotechnology engineering principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Mathematics",
+      "Biotechnology"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C012",
+    "career_name": "Agricultural Engineering",
+    "description": "This career involves agricultural engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Environmental Science",
+      "Agronomy"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C013",
+    "career_name": "Mining Engineering",
+    "description": "This career involves mining engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C014",
+    "career_name": "Petroleum Engineering",
+    "description": "This career involves petroleum engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C015",
+    "career_name": "Textile Engineering",
+    "description": "This career involves textile engineering tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C016",
+    "career_name": "Environmental Engineering",
+    "description": "A professional role focused on environmental engineering principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Environmental Science",
+      "Physics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C017",
+    "career_name": "Food Technology",
+    "description": "A professional role focused on food technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C018",
+    "career_name": "Dairy Technology",
+    "description": "A professional role focused on dairy technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C019",
+    "career_name": "Fisheries Science",
+    "description": "A professional role focused on fisheries science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C020",
+    "career_name": "B. Sc. Agriculture/Horticulture/Forestry",
+    "description": "This career involves b. sc. agriculture/horticulture/forestry tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C021",
+    "career_name": "B.Sc. Nursing",
+    "description": "A professional role focused on b.sc. nursing principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C022",
+    "career_name": "B.Sc. Medical Imaging Technology",
+    "description": "A professional role focused on b.sc. medical imaging technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C023",
+    "career_name": "B.Sc. Operation Theatre Technology",
+    "description": "A professional role focused on b.sc. operation theatre technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C024",
+    "career_name": "B.Sc. Medical Laboratory Technology (MLT)",
+    "description": "A professional role focused on b.sc. medical laboratory technology (mlt) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C025",
+    "career_name": "B.Pharma",
+    "description": "A professional role focused on b.pharma principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C026",
+    "career_name": "B.D.S. (Dental Science)",
+    "description": "A professional role focused on b.d.s. (dental science) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C027",
+    "career_name": "B.V.Sc. (Veterinary Science)",
+    "description": "A professional role focused on b.v.sc. (veterinary science) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Zoology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C028",
+    "career_name": "B.A.M.S. (Ayurvedic Medicine & Surgery)",
+    "description": "A professional role focused on b.a.m.s. (ayurvedic medicine & surgery) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C029",
+    "career_name": "B.H.M.S. (Homoeopathic Medicine & Surgery)",
+    "description": "A professional role focused on b.h.m.s. (homoeopathic medicine & surgery) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C030",
+    "career_name": "B.U.M.S. (Unani Medicine & Surgery)",
+    "description": "A professional role focused on b.u.m.s. (unani medicine & surgery) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C031",
+    "career_name": "MBBS",
+    "description": "A professional role focused on mbbs principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C032",
+    "career_name": "B.Sc. Forensic Science",
+    "description": "A professional role focused on b.sc. forensic science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C033",
+    "career_name": "B.Sc. Biotechnology",
+    "description": "A professional role focused on b.sc. biotechnology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Biotechnology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C034",
+    "career_name": "B.Sc. Microbiology",
+    "description": "A professional role focused on b.sc. microbiology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Microbiology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C035",
+    "career_name": "B.Sc. Environmental Science",
+    "description": "A professional role focused on b.sc. environmental science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Environmental Science",
+      "Physics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C036",
+    "career_name": "B.Sc. Bioinformatics",
+    "description": "A professional role focused on b.sc. bioinformatics principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C037",
+    "career_name": "B.Sc. Polymer Science",
+    "description": "A professional role focused on b.sc. polymer science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "General Knowledge"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C038",
+    "career_name": "B.Sc. Animation & VFX",
+    "description": "A professional role focused on b.sc. animation & vfx principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C039",
+    "career_name": "B.Sc. Film & Television Production",
+    "description": "A professional role focused on b.sc. film & television production principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Mass Communication"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C040",
+    "career_name": "B.Sc. Fashion Design",
+    "description": "A professional role focused on b.sc. fashion design principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C041",
+    "career_name": "B.Sc. Interior Design",
+    "description": "A professional role focused on b.sc. interior design principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C042",
+    "career_name": "B.Sc. Photography",
+    "description": "A professional role focused on b.sc. photography principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C043",
+    "career_name": "Bachelor of Fine Arts (BFA)",
+    "description": "This career involves bachelor of fine arts (bfa) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Fine Arts",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C044",
+    "career_name": "Bachelor of Journalism & Mass Communication (BJMC)",
+    "description": "This career involves bachelor of journalism & mass communication (bjmc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Mass Communication",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C045",
+    "career_name": "B.A. (Journalism)",
+    "description": "This career involves b.a. (journalism) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Mass Communication",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C046",
+    "career_name": "B.A. (Hons) Journalism",
+    "description": "This career involves b.a. (hons) journalism tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Mass Communication",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C047",
+    "career_name": "B.A. (Hons) Mass Communication",
+    "description": "This career involves b.a. (hons) mass communication tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Mass Communication",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C048",
+    "career_name": "B.B.A. (Bachelor of Business Administration)",
+    "description": "This career involves b.b.a. (bachelor of business administration) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Business Studies",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C049",
+    "career_name": "B.M.S. (Bachelor of Management Studies)",
+    "description": "This career involves b.m.s. (bachelor of management studies) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Business Studies",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C050",
+    "career_name": "B.B.M. (Bachelor of Business Management)",
+    "description": "This career involves b.b.m. (bachelor of business management) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Business Studies",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C051",
+    "career_name": "B.Com. (Bachelor of Commerce)",
+    "description": "This career involves b.com. (bachelor of commerce) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Business Studies",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C052",
+    "career_name": "B.Com. (Hons)",
+    "description": "This career involves b.com. (hons) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Business Studies",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C053",
+    "career_name": "B.A. (Economics)",
+    "description": "This career involves b.a. (economics) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "History",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C054",
+    "career_name": "B.A. (Psychology)",
+    "description": "This career involves b.a. (psychology) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Biology",
+      "English"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C055",
+    "career_name": "B.A. (Sociology)",
+    "description": "This career involves b.a. (sociology) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Sociology",
+      "History",
+      "Political Science",
+      "English"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C056",
+    "career_name": "B.A. (Political Science)",
+    "description": "This career involves b.a. (political science) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Political Science",
+      "History",
+      "Sociology",
+      "Economics"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C057",
+    "career_name": "B.A. (History)",
+    "description": "This career involves b.a. (history) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "History",
+      "Literature",
+      "Sociology",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C058",
+    "career_name": "B.A. (Geography)",
+    "description": "This career involves b.a. (geography) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Geography",
+      "Environmental Science",
+      "Mathematics",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C059",
+    "career_name": "B.A. (English Hons.)",
+    "description": "This career involves b.a. (english hons.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Psychology",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C060",
+    "career_name": "B.A. (Foreign Language)",
+    "description": "This career involves b.a. (foreign language) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Foreign Language",
+      "History",
+      "Literature",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C061",
+    "career_name": "B.A. (Performing Arts)",
+    "description": "This career involves b.a. (performing arts) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Literature",
+      "History",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C062",
+    "career_name": "B.A. (Fine Arts)",
+    "description": "This career involves b.a. (fine arts) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Literature",
+      "History",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C063",
+    "career_name": "B.S.W. (Bachelor of Social Work)",
+    "description": "This career involves b.s.w. (bachelor of social work) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Political Science",
+      "Economics"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C064",
+    "career_name": "B.Lib.I.Sc. (Bachelor of Library & Information Science)",
+    "description": "This career involves b.lib.i.sc. (bachelor of library & information science) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Library & Information Science",
+      "History",
+      "English",
+      "General Knowledge"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C065",
+    "career_name": "B.P.Ed. (Bachelor of Physical Education)",
+    "description": "This career involves b.p.ed. (bachelor of physical education) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Physical Education",
+      "Anatomy",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Sports & Fitness"
+  },
+  {
+    "career_id": "C066",
+    "career_name": "B.Sc. in Sports Science",
+    "description": "A professional role focused on b.sc. in sports science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Sports & Fitness"
+  },
+  {
+    "career_id": "C067",
+    "career_name": "B.A. LL.B. (Bachelor of Arts and Bachelor of Laws)",
+    "description": "This career involves b.a. ll.b. (bachelor of arts and bachelor of laws) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Legal Studies",
+      "History",
+      "Political Science",
+      "Economics"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C068",
+    "career_name": "B.B.A. LL.B. (Bachelor of Business Administration and Bachelor of Laws)",
+    "description": "This career involves b.b.a. ll.b. (bachelor of business administration and bachelor of laws) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Business Studies",
+      "Economics",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C069",
+    "career_name": "B.Com. LL.B. (Bachelor of Commerce and Bachelor of Laws)",
+    "description": "This career involves b.com. ll.b. (bachelor of commerce and bachelor of laws) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C070",
+    "career_name": "B.Sc. LL.B. (Bachelor of Science and Bachelor of Laws)",
+    "description": "This career involves b.sc. ll.b. (bachelor of science and bachelor of laws) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Legal Studies",
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C071",
+    "career_name": "B.A. B.Ed. (Bachelor of Arts and Bachelor of Education)",
+    "description": "This career involves b.a. b.ed. (bachelor of arts and bachelor of education) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "Child Development"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C072",
+    "career_name": "B.Sc. B.Ed. (Bachelor of Science and Bachelor of Education)",
+    "description": "This career involves b.sc. b.ed. (bachelor of science and bachelor of education) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "Child Development"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C073",
+    "career_name": "B.Ed. (Bachelor of Education)",
+    "description": "This career involves b.ed. (bachelor of education) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "Child Development"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C074",
+    "career_name": "B.P.Ed. (Bachelor of Physical Education)",
+    "description": "This career involves b.p.ed. (bachelor of physical education) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Physical Education",
+      "Anatomy",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Sports & Fitness"
+  },
+  {
+    "career_id": "C075",
+    "career_name": "B.Sc. Agriculture",
+    "description": "A professional role focused on b.sc. agriculture principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C076",
+    "career_name": "B.Sc. Horticulture",
+    "description": "A professional role focused on b.sc. horticulture principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C077",
+    "career_name": "B.Sc. Forestry",
+    "description": "A professional role focused on b.sc. forestry principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C078",
+    "career_name": "B.Sc. Food Technology",
+    "description": "A professional role focused on b.sc. food technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Food Technology"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C079",
+    "career_name": "B.Sc. Dairy Technology",
+    "description": "A professional role focused on b.sc. dairy technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Dairy Technology"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C080",
+    "career_name": "B.Sc. Fisheries Science",
+    "description": "A professional role focused on b.sc. fisheries science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Agronomy",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C081",
+    "career_name": "Bachelor of Pharmacy (B.Pharm)",
+    "description": "A professional role focused on bachelor of pharmacy (b.pharm) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Pharmacology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C082",
+    "career_name": "Pharm.D. (Doctor of Pharmacy)",
+    "description": "A professional role focused on pharm.d. (doctor of pharmacy) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Pharmacology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C083",
+    "career_name": "B.V.Sc. (Bachelor of Veterinary Science & A.H.)",
+    "description": "A professional role focused on b.v.sc. (bachelor of veterinary science & a.h.) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Zoology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C084",
+    "career_name": "B.D.S. (Bachelor of Dental Surgery)",
+    "description": "A professional role focused on b.d.s. (bachelor of dental surgery) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Anatomy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C085",
+    "career_name": "B.Sc. Nursing",
+    "description": "A professional role focused on b.sc. nursing principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Nursing"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C086",
+    "career_name": "B.P.T. (Bachelor of Physiotherapy)",
+    "description": "A professional role focused on b.p.t. (bachelor of physiotherapy) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Physiotherapy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C087",
+    "career_name": "B.O.T. (Bachelor of Occupational Therapy)",
+    "description": "A professional role focused on b.o.t. (bachelor of occupational therapy) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Psychology",
+      "Sociology",
+      "Occupational Therapy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C088",
+    "career_name": "B.M.L.T. (Bachelor of Medical Lab Technology)",
+    "description": "A professional role focused on b.m.l.t. (bachelor of medical lab technology) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Microbiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C089",
+    "career_name": "B.Optom (Bachelor of Optometry)",
+    "description": "A professional role focused on b.optom (bachelor of optometry) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Optometry"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C090",
+    "career_name": "B.Sc. Medical Imaging Technology (MIT)",
+    "description": "A professional role focused on b.sc. medical imaging technology (mit) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Medical Imaging"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C091",
+    "career_name": "B.Sc. Anesthesia & Operation Theatre Technology (AOTT)",
+    "description": "A professional role focused on b.sc. anesthesia & operation theatre technology (aott) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Anesthesia"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C092",
+    "career_name": "B.Sc. Dialysis Technology",
+    "description": "A professional role focused on b.sc. dialysis technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Dialysis"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C093",
+    "career_name": "B.Sc. Perfusion Technology",
+    "description": "A professional role focused on b.sc. perfusion technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Perfusion"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C094",
+    "career_name": "B.Sc. Cardiac Technology",
+    "description": "A professional role focused on b.sc. cardiac technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Cardiac Technology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C095",
+    "career_name": "B.Sc. Radiology & Imaging Technology (RIT)",
+    "description": "A professional role focused on b.sc. radiology & imaging technology (rit) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Biology",
+      "Chemistry",
+      "Radiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C096",
+    "career_name": "B.Sc. Respiratory Therapy",
+    "description": "A professional role focused on b.sc. respiratory therapy principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Respiratory Therapy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C097",
+    "career_name": "B.Sc. Audiology & Speech-Language Pathology (ASLP)",
+    "description": "A professional role focused on b.sc. audiology & speech-language pathology (aslp) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Psychology",
+      "Linguistics",
+      "Audiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C098",
+    "career_name": "B.Sc. Optometry",
+    "description": "A professional role focused on b.sc. optometry principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Physics",
+      "Chemistry",
+      "Optometry"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C099",
+    "career_name": "B.Sc. Clinical Research",
+    "description": "A professional role focused on b.sc. clinical research principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Statistics",
+      "Pharmacology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C100",
+    "career_name": "B.Sc. Public Health",
+    "description": "A professional role focused on b.sc. public health principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Sociology",
+      "Statistics",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C101",
+    "career_name": "B.A. Foreign Language",
+    "description": "This career involves b.a. foreign language tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Foreign Language",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C102",
+    "career_name": "B.Sc. Marine Biology",
+    "description": "A professional role focused on b.sc. marine biology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Environmental Science",
+      "Zoology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C103",
+    "career_name": "B.Sc. Nautical Science",
+    "description": "A professional role focused on b.sc. nautical science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Physics",
+      "Mathematics",
+      "Geography",
+      "Navigation"
+    ],
+    "Suitable_Interests": "Maritime"
+  },
+  {
+    "career_id": "C104",
+    "career_name": "B.Tech. Naval Architecture & Ocean Engineering",
+    "description": "A professional role focused on b.tech. naval architecture & ocean engineering principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Computer Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Maritime"
+  },
+  {
+    "career_id": "C105",
+    "career_name": "B.Sc. Ship Building & Repair",
+    "description": "A professional role focused on b.sc. ship building & repair principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Physics",
+      "Mathematics",
+      "Engineering",
+      "Material Science"
+    ],
+    "Suitable_Interests": "Maritime"
+  },
+  {
+    "career_id": "C106",
+    "career_name": "B.Tech. Marine Engineering",
+    "description": "A professional role focused on b.tech. marine engineering principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Computer Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Maritime"
+  },
+  {
+    "career_id": "C107",
+    "career_name": "B.Sc. Logistics & Supply Chain Management",
+    "description": "A professional role focused on b.sc. logistics & supply chain management principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Economics",
+      "Mathematics",
+      "Logistics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C108",
+    "career_name": "B.B.A. Logistics & Supply Chain Management",
+    "description": "This career involves b.b.a. logistics & supply chain management tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Economics",
+      "Accountancy",
+      "Marketing"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C109",
+    "career_name": "B.A. Journalism",
+    "description": "This career involves b.a. journalism tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "Mass Communication",
+      "Political Science",
+      "History"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C110",
+    "career_name": "B.A. Mass Communication",
+    "description": "This career involves b.a. mass communication tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Communication",
+      "Literature",
+      "Sociology",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C111",
+    "career_name": "B.A. Advertising & Public Relations",
+    "description": "This career involves b.a. advertising & public relations tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Communication",
+      "Literature",
+      "Psychology",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C112",
+    "career_name": "B.Sc. Animation & VFX",
+    "description": "A professional role focused on b.sc. animation & vfx principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Computer Science",
+      "Physics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C113",
+    "career_name": "B.Sc. Photography",
+    "description": "A professional role focused on b.sc. photography principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Physics",
+      "Photography",
+      "Mass Communication"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C114",
+    "career_name": "B.A. Film & Television Production",
+    "description": "This career involves b.a. film & television production tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Mass Communication",
+      "Literature",
+      "History"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C115",
+    "career_name": "B.F.A. (Bachelor of Fine Arts)",
+    "description": "This career involves b.f.a. (bachelor of fine arts) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Fine Arts",
+      "Literature",
+      "History",
+      "Philosophy"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C116",
+    "career_name": "B.Sc. Psychology",
+    "description": "A professional role focused on b.sc. psychology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Biology",
+      "Sociology",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C117",
+    "career_name": "B.A. Sociology",
+    "description": "This career involves b.a. sociology tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Sociology",
+      "History",
+      "Political Science",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C118",
+    "career_name": "B.A. Political Science",
+    "description": "This career involves b.a. political science tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Political Science",
+      "History",
+      "Economics",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C119",
+    "career_name": "B.A. History",
+    "description": "This career involves b.a. history tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "History",
+      "Literature",
+      "Political Science",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C120",
+    "career_name": "B.A. Economics",
+    "description": "This career involves b.a. economics tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Economics",
+      "Mathematics",
+      "Statistics",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C121",
+    "career_name": "B.A. Geography",
+    "description": "This career involves b.a. geography tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Geography",
+      "Environmental Science",
+      "History",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C122",
+    "career_name": "B.A. Philosophy",
+    "description": "This career involves b.a. philosophy tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Philosophy",
+      "Literature",
+      "History",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C123",
+    "career_name": "B.A. English (Literature)",
+    "description": "This career involves b.a. english (literature) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Sociology",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C124",
+    "career_name": "B.A. Foreign Language (e.g., French, German, Spanish)",
+    "description": "This career involves b.a. foreign language (e.g., french, german, spanish) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Foreign Language",
+      "Literature",
+      "History",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C125",
+    "career_name": "B.Sc. Forensic Science",
+    "description": "A professional role focused on b.sc. forensic science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Forensic Science"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C126",
+    "career_name": "B.Sc. Biotechnology",
+    "description": "A professional role focused on b.sc. biotechnology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Biotechnology",
+      "Physics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C127",
+    "career_name": "B.Sc. Environmental Science",
+    "description": "A professional role focused on b.sc. environmental science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Environmental Science",
+      "Biology",
+      "Chemistry",
+      "Geography"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C128",
+    "career_name": "B.Sc. Microbiology",
+    "description": "A professional role focused on b.sc. microbiology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Microbiology",
+      "Biotechnology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C129",
+    "career_name": "B.Sc. Bioinformatics",
+    "description": "A professional role focused on b.sc. bioinformatics principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Biology",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C130",
+    "career_name": "B.Sc. Food Technology",
+    "description": "A professional role focused on b.sc. food technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Chemistry",
+      "Biology",
+      "Food Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C131",
+    "career_name": "B.Sc. Dairy Technology",
+    "description": "A professional role focused on b.sc. dairy technology principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Chemistry",
+      "Biology",
+      "Food Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C132",
+    "career_name": "B.Sc. Fisheries Science",
+    "description": "A professional role focused on b.sc. fisheries science principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Environmental Science",
+      "Zoology",
+      "Chemistry"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C133",
+    "career_name": "B.Sc. Horticulture",
+    "description": "A professional role focused on b.sc. horticulture principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Environmental Science",
+      "Botany",
+      "Agriculture"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C134",
+    "career_name": "B.Sc. Forestry",
+    "description": "A professional role focused on b.sc. forestry principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Environmental Science",
+      "Botany",
+      "Geography"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C135",
+    "career_name": "B.Tech. Agricultural Engineering",
+    "description": "A professional role focused on b.tech. agricultural engineering principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Computer Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C136",
+    "career_name": "B.Tech. Dairy Engineering",
+    "description": "A professional role focused on b.tech. dairy engineering principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C137",
+    "career_name": "B.Tech. Food Process Engineering",
+    "description": "A professional role focused on b.tech. food process engineering principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C138",
+    "career_name": "B.Arch. (Bachelor of Architecture)",
+    "description": "This career involves b.arch. (bachelor of architecture) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Physics",
+      "Fine Arts",
+      "Design"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C139",
+    "career_name": "B.Plan. (Bachelor of Planning)",
+    "description": "This career involves b.plan. (bachelor of planning) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Geography",
+      "Economics",
+      "Sociology",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C140",
+    "career_name": "Bachelor of Elementary Education (B.El.Ed.)",
+    "description": "This career involves bachelor of elementary education (b.el.ed.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "English"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C141",
+    "career_name": "Bachelor of Education (B.Ed.)",
+    "description": "This career involves bachelor of education (b.ed.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "English"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C142",
+    "career_name": "Bachelor of Physical Education (B.P.Ed.)",
+    "description": "This career involves bachelor of physical education (b.p.ed.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physical Education",
+      "Biology",
+      "Sports Science",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C143",
+    "career_name": "Diploma in Elementary Education (D.El.Ed.)",
+    "description": "This career involves diploma in elementary education (d.el.ed.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Education Studies",
+      "English",
+      "Environmental Studies"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C144",
+    "career_name": "Master of Arts (M.A.) (various specializations)",
+    "description": "This career involves master of arts (m.a.) (various specializations) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Literature",
+      "History",
+      "Sociology",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C145",
+    "career_name": "Master of Science (M.Sc.) (various specializations)",
+    "description": "A professional role focused on master of science (m.sc.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Physics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C146",
+    "career_name": "Master of Commerce (M.Com.)",
+    "description": "This career involves master of commerce (m.com.) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Accountancy",
+      "Economics",
+      "Business Studies",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C147",
+    "career_name": "Master of Business Administration (MBA)",
+    "description": "This career involves master of business administration (mba) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Economics",
+      "Marketing",
+      "Finance"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C148",
+    "career_name": "Master of Computer Applications (MCA)",
+    "description": "A professional role focused on master of computer applications (mca) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Mathematics",
+      "Statistics",
+      "Networking"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C149",
+    "career_name": "Master of Technology (M.Tech.) (various specializations)",
+    "description": "A professional role focused on master of technology (m.tech.) (various specializations) principles. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Engineering",
+      "Mathematics",
+      "Physics",
+      "Computer Science"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C150",
+    "career_name": "Doctor of Medicine (M.D.) (various specializations)",
+    "description": "A professional role focused on doctor of medicine (m.d.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Chemistry",
+      "Medicine",
+      "Pathology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C151",
+    "career_name": "Master of Surgery (M.S.) (various specializations)",
+    "description": "A professional role focused on master of surgery (m.s.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Medicine",
+      "Anatomy",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C152",
+    "career_name": "Master of Dental Surgery (M.D.S.) (various specializations)",
+    "description": "A professional role focused on master of dental surgery (m.d.s.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Dentistry",
+      "Anatomy",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C153",
+    "career_name": "Master of Pharmacy (M.Pharm.) (various specializations)",
+    "description": "A professional role focused on master of pharmacy (m.pharm.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Chemistry",
+      "Biology",
+      "Pharmacology",
+      "Pharmacy"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C154",
+    "career_name": "Master of Veterinary Science (M.V.Sc.) (various specializations)",
+    "description": "A professional role focused on master of veterinary science (m.v.sc.) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Veterinary Science",
+      "Anatomy",
+      "Physiology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C155",
+    "career_name": "Master of Law (LL.M.) (various specializations)",
+    "description": "This career involves master of law (ll.m.) (various specializations) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Legal Studies",
+      "Political Science",
+      "History",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C156",
+    "career_name": "Ph.D. (Doctor of Philosophy) (various specializations)",
+    "description": "A professional role focused on ph.d. (doctor of philosophy) (various specializations) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Science",
+      "Humanities",
+      "Engineering",
+      "Social Sciences"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C157",
+    "career_name": "Post Graduate Diploma in Management (PGDM)",
+    "description": "This career involves post graduate diploma in management (pgdm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Economics",
+      "Marketing",
+      "Finance"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C158",
+    "career_name": "Post Graduate Diploma in Rural Development (PGDRDM)",
+    "description": "This career involves post graduate diploma in rural development (pgdrdm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Sociology",
+      "Economics",
+      "Political Science",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C159",
+    "career_name": "Post Graduate Diploma in Journalism (PGDJ)",
+    "description": "This career involves post graduate diploma in journalism (pgdj) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Communication",
+      "Literature",
+      "History",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C160",
+    "career_name": "Post Graduate Diploma in Public Relations (PGDPR)",
+    "description": "This career involves post graduate diploma in public relations (pgdpr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Communication",
+      "Business Studies",
+      "Marketing",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C161",
+    "career_name": "Post Graduate Diploma in Advertising (PGDA)",
+    "description": "This career involves post graduate diploma in advertising (pgda) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing",
+      "Mass Communication",
+      "Business Studies",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C162",
+    "career_name": "Post Graduate Diploma in Event Management (PGDEM)",
+    "description": "This career involves post graduate diploma in event management (pgdem) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Business Studies",
+      "Marketing",
+      "Hospitality",
+      "Public Relations"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C163",
+    "career_name": "Post Graduate Diploma in Hotel Management (PGDHM)",
+    "description": "This career involves post graduate diploma in hotel management (pgdhm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Hotel Management",
+      "Business Studies",
+      "Marketing",
+      "Tourism"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C164",
+    "career_name": "Post Graduate Diploma in Tourism Management (PGDTM)",
+    "description": "This career involves post graduate diploma in tourism management (pgdtm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Tourism",
+      "Business Studies",
+      "Geography",
+      "Marketing"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C165",
+    "career_name": "Post Graduate Diploma in Logistics & Supply Chain Management (PGDLSCM)",
+    "description": "This career involves post graduate diploma in logistics & supply chain management (pgdlscm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Economics",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Logistics"
+  },
+  {
+    "career_id": "C166",
+    "career_name": "Post Graduate Diploma in Data Science (PGDDS)",
+    "description": "A professional role focused on post graduate diploma in data science (pgdds) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Statistics",
+      "Computer Science",
+      "Mathematics",
+      "Artificial Intelligence"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C167",
+    "career_name": "Post Graduate Diploma in Cyber Security (PGDCS)",
+    "description": "A professional role focused on post graduate diploma in cyber security (pgdcs) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Computer Science",
+      "Networking",
+      "Cybersecurity",
+      "Algorithms"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C168",
+    "career_name": "Post Graduate Diploma in Artificial Intelligence & Machine Learning (PGDAI&ML)",
+    "description": "A professional role focused on post graduate diploma in artificial intelligence & machine learning (pgdai&ml) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Computer Science",
+      "Mathematics",
+      "Statistics",
+      "Artificial Intelligence"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C169",
+    "career_name": "Post Graduate Diploma in Financial Planning (PGDFP)",
+    "description": "This career involves post graduate diploma in financial planning (pgdfp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance",
+      "Economics",
+      "Accountancy",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C170",
+    "career_name": "Post Graduate Diploma in Human Resource Management (PGDHRM)",
+    "description": "This career involves post graduate diploma in human resource management (pgdhrm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Human Resources",
+      "Business Studies",
+      "Psychology",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C171",
+    "career_name": "Post Graduate Diploma in Retail Management (PGDRM)",
+    "description": "This career involves post graduate diploma in retail management (pgdrm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Marketing",
+      "Economics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C172",
+    "career_name": "Post Graduate Diploma in Marketing Management (PGDMM)",
+    "description": "This career involves post graduate diploma in marketing management (pgdmm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing",
+      "Business Studies",
+      "Economics",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Marketing & Sales"
+  },
+  {
+    "career_id": "C173",
+    "career_name": "Post Graduate Diploma in International Business (PGDIB)",
+    "description": "This career involves post graduate diploma in international business (pgdib) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "International Business",
+      "Economics",
+      "Business Studies",
+      "Law"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C174",
+    "career_name": "Post Graduate Diploma in Supply Chain Management (PGDSCM)",
+    "description": "This career involves post graduate diploma in supply chain management (pgdscm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Logistics",
+      "Business Studies",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Logistics"
+  },
+  {
+    "career_id": "C175",
+    "career_name": "Post Graduate Diploma in Operation Management (PGDOM)",
+    "description": "This career involves post graduate diploma in operation management (pgdom) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Mathematics",
+      "Statistics",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C176",
+    "career_name": "Post Graduate Diploma in Project Management (PGDPM)",
+    "description": "This career involves post graduate diploma in project management (pgdpm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Engineering",
+      "Economics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C177",
+    "career_name": "Post Graduate Diploma in Counselling & Guidance (PGDCG)",
+    "description": "This career involves post graduate diploma in counselling & guidance (pgdcg) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Education Studies",
+      "Ethics"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C178",
+    "career_name": "Post Graduate Diploma in Special Education (PGDSE)",
+    "description": "This career involves post graduate diploma in special education (pgdse) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education Studies",
+      "Psychology",
+      "Sociology",
+      "Child Development"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C179",
+    "career_name": "Post Graduate Diploma in Early Childhood Care & Education (PGDECCE)",
+    "description": "This career involves post graduate diploma in early childhood care & education (pgdecce) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Child Development",
+      "Psychology",
+      "Education Studies",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C180",
+    "career_name": "Post Graduate Diploma in Education (PGDE)",
+    "description": "This career involves post graduate diploma in education (pgde) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education Studies",
+      "Psychology",
+      "Sociology",
+      "English"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C181",
+    "career_name": "Post Graduate Diploma in Remote Sensing & GIS (PGDRS&GIS)",
+    "description": "A professional role focused on post graduate diploma in remote sensing & gis (pgdrs&gis) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Geography",
+      "Environmental Science",
+      "Computer Science",
+      "Geology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C182",
+    "career_name": "Post Graduate Diploma in Environmental Management (PGDEM)",
+    "description": "A professional role focused on post graduate diploma in environmental management (pgdem) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Environmental Science",
+      "Biology",
+      "Chemistry",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C183",
+    "career_name": "Post Graduate Diploma in Disaster Management (PGDDM)",
+    "description": "This career involves post graduate diploma in disaster management (pgddm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Public Administration",
+      "Geography",
+      "Sociology",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C184",
+    "career_name": "Post Graduate Diploma in Counselling (PGDC)",
+    "description": "This career involves post graduate diploma in counselling (pgdc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sociology",
+      "Ethics",
+      "Communication"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C185",
+    "career_name": "Post Graduate Diploma in Forensic Science (PGDFS)",
+    "description": "A professional role focused on post graduate diploma in forensic science (pgdfs) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Forensic Science",
+      "Chemistry",
+      "Biology",
+      "Law"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C186",
+    "career_name": "Post Graduate Diploma in Cyber Law (PGDCL)",
+    "description": "This career involves post graduate diploma in cyber law (pgdcl) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Computer Science",
+      "Cybersecurity",
+      "Public Policy"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C187",
+    "career_name": "Post Graduate Diploma in Intellectual Property Rights (PGDIPR)",
+    "description": "This career involves post graduate diploma in intellectual property rights (pgdipr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Business Studies",
+      "Economics",
+      "Intellectual Property"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C188",
+    "career_name": "Post Graduate Diploma in Labour Law (PGDLL)",
+    "description": "This career involves post graduate diploma in labour law (pgdll) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Human Resources",
+      "Sociology",
+      "Economics"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C189",
+    "career_name": "Post Graduate Diploma in Taxation Law (PGDTL)",
+    "description": "This career involves post graduate diploma in taxation law (pgdtl) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Legal Studies",
+      "Accountancy",
+      "Economics",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C190",
+    "career_name": "Post Graduate Diploma in Banking & Finance (PGDBF)",
+    "description": "This career involves post graduate diploma in banking & finance (pgdbf) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance",
+      "Economics",
+      "Accountancy",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C191",
+    "career_name": "Post Graduate Diploma in Investment Banking (PGDIB)",
+    "description": "This career involves post graduate diploma in investment banking (pgdib) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance",
+      "Economics",
+      "Accountancy",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C192",
+    "career_name": "Post Graduate Diploma in Insurance Management (PGDIM)",
+    "description": "This career involves post graduate diploma in insurance management (pgdim) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance",
+      "Business Studies",
+      "Economics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C193",
+    "career_name": "Post Graduate Diploma in Actuarial Science (PGDAS)",
+    "description": "A professional role focused on post graduate diploma in actuarial science (pgdas) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Mathematics",
+      "Statistics",
+      "Finance",
+      "Economics"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C194",
+    "career_name": "Post Graduate Diploma in Digital Marketing (PGDDM)",
+    "description": "This career involves post graduate diploma in digital marketing (pgddm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing",
+      "Business Studies",
+      "Computer Science",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Marketing & Sales"
+  },
+  {
+    "career_id": "C195",
+    "career_name": "Post Graduate Diploma in Business Analytics (PGDBA)",
+    "description": "A professional role focused on post graduate diploma in business analytics (pgdba) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Business Studies",
+      "Statistics",
+      "Mathematics",
+      "Computer Science"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C196",
+    "career_name": "Post Graduate Diploma in Operations Research (PGDOR)",
+    "description": "A professional role focused on post graduate diploma in operations research (pgdor) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mathematics",
+      "Statistics",
+      "Computer Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C197",
+    "career_name": "Post Graduate Diploma in Supply Chain Analytics (PGDSCA)",
+    "description": "A professional role focused on post graduate diploma in supply chain analytics (pgdsca) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Logistics",
+      "Business Studies",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Logistics"
+  },
+  {
+    "career_id": "C198",
+    "career_name": "Post Graduate Diploma in Renewable Energy Management (PGDREM)",
+    "description": "A professional role focused on post graduate diploma in renewable energy management (pgdrem) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Environmental Science",
+      "Engineering",
+      "Economics",
+      "Physics"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C199",
+    "career_name": "Post Graduate Diploma in Water Resource Management (PGDWRM)",
+    "description": "A professional role focused on post graduate diploma in water resource management (pgdwrm) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Environmental Science",
+      "Geography",
+      "Civil Engineering",
+      "Biology"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C200",
+    "career_name": "Post Graduate Diploma in Geoinformatics (PGDGI)",
+    "description": "A professional role focused on post graduate diploma in geoinformatics (pgdgi) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Geography",
+      "Computer Science",
+      "Environmental Science",
+      "Geology"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C201",
+    "career_name": "Post Graduate Diploma in Nanotechnology (PGDNT)",
+    "description": "A professional role focused on post graduate diploma in nanotechnology (pgdnt) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Physics",
+      "Chemistry",
+      "Materials Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Sciences (Pure & Applied)"
+  },
+  {
+    "career_id": "C202",
+    "career_name": "Post Graduate Diploma in Biomedical Engineering (PGDBME)",
+    "description": "A professional role focused on post graduate diploma in biomedical engineering (pgdbme) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biomedical Engineering",
+      "Biology",
+      "Physics",
+      "Computer Science"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C203",
+    "career_name": "Post Graduate Diploma in Robotics & Automation (PGDRA)",
+    "description": "A professional role focused on post graduate diploma in robotics & automation (pgdra) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Robotics",
+      "Computer Science",
+      "Engineering",
+      "Physics"
+    ],
+    "Suitable_Interests": "Engineering & Technology"
+  },
+  {
+    "career_id": "C204",
+    "career_name": "Post Graduate Diploma in Renewable Energy (PGDRE)",
+    "description": "A professional role focused on post graduate diploma in renewable energy (pgdre) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Environmental Science",
+      "Engineering",
+      "Physics",
+      "Economics"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C205",
+    "career_name": "Post Graduate Diploma in Automotive Design (PGDAD)",
+    "description": "A professional role focused on post graduate diploma in automotive design (pgdad) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Automotive Engineering",
+      "Design",
+      "Art",
+      "Physics"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C206",
+    "career_name": "Post Graduate Diploma in Product Design (PGDPD)",
+    "description": "A professional role focused on post graduate diploma in product design (pgdpd) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Design",
+      "Engineering",
+      "Art",
+      "Marketing"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C207",
+    "career_name": "Post Graduate Diploma in Interior Design (PGDID)",
+    "description": "This career involves post graduate diploma in interior design (pgdid) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Interior Design",
+      "Art",
+      "Architecture",
+      "Design"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C208",
+    "career_name": "Post Graduate Diploma in Fashion Design (PGDFD)",
+    "description": "This career involves post graduate diploma in fashion design (pgdfd) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Fashion Design",
+      "Art",
+      "Textile Science",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C209",
+    "career_name": "Post Graduate Diploma in Textile Design (PGDTD)",
+    "description": "This career involves post graduate diploma in textile design (pgdtd) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Textile Design",
+      "Art",
+      "Chemistry",
+      "Materials Science"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C210",
+    "career_name": "Post Graduate Diploma in Jewellery Design (PGDJD)",
+    "description": "This career involves post graduate diploma in jewellery design (pgdjd) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Jewellery Design",
+      "Art",
+      "Materials Science",
+      "Business Studies"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C211",
+    "career_name": "Post Graduate Diploma in Animation (PGDA)",
+    "description": "This career involves post graduate diploma in animation (pgda) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Animation",
+      "Art",
+      "Computer Science",
+      "Film Studies"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C212",
+    "career_name": "Post Graduate Diploma in VFX (PGDVFX)",
+    "description": "This career involves post graduate diploma in vfx (pgdvfx) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Animation & VFX",
+      "Computer Science",
+      "Film Studies",
+      "Art"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C213",
+    "career_name": "Post Graduate Diploma in Photography (PGDP)",
+    "description": "This career involves post graduate diploma in photography (pgdp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Photography",
+      "Art",
+      "Mass Communication",
+      "Design"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C214",
+    "career_name": "Post Graduate Diploma in Film Making (PGDFM)",
+    "description": "This career involves post graduate diploma in film making (pgdfm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Film & Television",
+      "Art",
+      "Literature",
+      "Mass Communication"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C215",
+    "career_name": "Post Graduate Diploma in Television Production (PGDTP)",
+    "description": "This career involves post graduate diploma in television production (pgdtp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Film & Television",
+      "Mass Communication",
+      "Art",
+      "Journalism"
+    ],
+    "Suitable_Interests": "Arts & Design"
+  },
+  {
+    "career_id": "C216",
+    "career_name": "Post Graduate Diploma in Mass Communication (PGDMC)",
+    "description": "This career involves post graduate diploma in mass communication (pgdmc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Comm",
+      "Journalism",
+      "Literature",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C217",
+    "career_name": "Post Graduate Diploma in Journalism (PGDJ)",
+    "description": "This career involves post graduate diploma in journalism (pgdj) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Journalism",
+      "Mass Communication",
+      "Literature",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C218",
+    "career_name": "Post Graduate Diploma in Public Relations (PGDPR)",
+    "description": "This career involves post graduate diploma in public relations (pgdpr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Mass Comm",
+      "Business Studies",
+      "Marketing",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C219",
+    "career_name": "Post Graduate Diploma in Advertising & Public Relations (PGDAPR)",
+    "description": "This career involves post graduate diploma in advertising & public relations (pgdapr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Journalism & Mass Comm",
+      "Marketing",
+      "Business Studies",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C220",
+    "career_name": "Post Graduate Diploma in Communication Studies (PGDCS)",
+    "description": "This career involves post graduate diploma in communication studies (pgdcs) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Mass Comm",
+      "Sociology",
+      "Psychology",
+      "Literature"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C221",
+    "career_name": "Post Graduate Diploma in Clinical Psychology (PGDCP)",
+    "description": "This career involves post graduate diploma in clinical psychology (pgdcp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Biology",
+      "Sociology",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C222",
+    "career_name": "Post Graduate Diploma in Industrial Psychology (PGDIP)",
+    "description": "This career involves post graduate diploma in industrial psychology (pgdip) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Psychology",
+      "Business Studies",
+      "Human Resources",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C223",
+    "career_name": "Post Graduate Diploma in Sports Psychology (PGDSP)",
+    "description": "This career involves post graduate diploma in sports psychology (pgdsp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Psychology",
+      "Sports Science",
+      "Biology",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Sports & Fitness"
+  },
+  {
+    "career_id": "C224",
+    "career_name": "Post Graduate Diploma in Educational Psychology (PGDEP)",
+    "description": "This career involves post graduate diploma in educational psychology (pgdep) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education",
+      "Psychology",
+      "Sociology",
+      "Pedagogy"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C225",
+    "career_name": "Post Graduate Diploma in Guidance & Counselling (PGDGC)",
+    "description": "This career involves post graduate diploma in guidance & counselling (pgdgc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education",
+      "Psychology",
+      "Sociology",
+      "Ethics"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C226",
+    "career_name": "Post Graduate Diploma in Special Education (PGDSE)",
+    "description": "This career involves post graduate diploma in special education (pgdse) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education",
+      "Psychology",
+      "Sociology",
+      "Child Development"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C227",
+    "career_name": "Post Graduate Diploma in Early Childhood Education (PGDECE)",
+    "description": "This career involves post graduate diploma in early childhood education (pgdece) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education",
+      "Child Development",
+      "Psychology",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Education"
+  },
+  {
+    "career_id": "C228",
+    "career_name": "Post Graduate Diploma in Hospital Administration (PGDHA)",
+    "description": "This career involves post graduate diploma in hospital administration (pgdha) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Business Studies",
+      "Public Administration",
+      "Economics"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C229",
+    "career_name": "Post Graduate Diploma in Healthcare Management (PGDHM)",
+    "description": "This career involves post graduate diploma in healthcare management (pgdhm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Public Administration",
+      "Business Studies",
+      "Economics"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C230",
+    "career_name": "Post Graduate Diploma in Public Health (PGDPH)",
+    "description": "This career involves post graduate diploma in public health (pgdph) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Environmental Science",
+      "Sociology",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C231",
+    "career_name": "Post Graduate Diploma in Geriatric Care (PGDGC)",
+    "description": "This career involves post graduate diploma in geriatric care (pgdgc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Sociology",
+      "Psychology",
+      "Biology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C232",
+    "career_name": "Post Graduate Diploma in Palliative Care (PGDPC)",
+    "description": "This career involves post graduate diploma in palliative care (pgdpc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Psychology",
+      "Sociology",
+      "Ethics"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C233",
+    "career_name": "Post Graduate Diploma in Dietetics & Applied Nutrition (PGDDAN)",
+    "description": "This career involves post graduate diploma in dietetics & applied nutrition (pgddan) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Medical & Healthcare",
+      "Sciences (Pure & Applied)",
+      "Chemistry",
+      "Biology"
+    ],
+    "Suitable_Interests": "Medical & Healthcare"
+  },
+  {
+    "career_id": "C234",
+    "career_name": "Post Graduate Diploma in Food Science & Technology (PGDFST)",
+    "description": "A professional role focused on post graduate diploma in food science & technology (pgdfst) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Chemistry",
+      "Biology",
+      "Food Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C235",
+    "career_name": "Post Graduate Diploma in Dairy Technology (PGDDT)",
+    "description": "A professional role focused on post graduate diploma in dairy technology (pgddt) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Chemistry",
+      "Biology",
+      "Food Science",
+      "Engineering"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C236",
+    "career_name": "Post Graduate Diploma in Fisheries Science (PGDFS)",
+    "description": "A professional role focused on post graduate diploma in fisheries science (pgdfs) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Biology",
+      "Environmental Science",
+      "Chemistry",
+      "Zoology"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C237",
+    "career_name": "Post Graduate Diploma in Sericulture (PGDS)",
+    "description": "A professional role focused on post graduate diploma in sericulture (pgds) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Agriculture & Environment",
+      "Biology",
+      "Zoology",
+      "Chemistry"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C238",
+    "career_name": "Post Graduate Diploma in Horticulture (PGDH)",
+    "description": "A professional role focused on post graduate diploma in horticulture (pgdh) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Agriculture & Environment",
+      "Biology",
+      "Botany",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C239",
+    "career_name": "Post Graduate Diploma in Forestry (PGDF)",
+    "description": "A professional role focused on post graduate diploma in forestry (pgdf) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Agriculture & Environment",
+      "Biology",
+      "Environmental Science",
+      "Geography"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C240",
+    "career_name": "Post Graduate Diploma in Renewable Energy Management (PGDREM)",
+    "description": "A professional role focused on post graduate diploma in renewable energy management (pgdrem) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Agriculture & Environment",
+      "Business Studies",
+      "Engineering",
+      "Economics"
+    ],
+    "Suitable_Interests": "Agriculture & Environment"
+  },
+  {
+    "career_id": "C241",
+    "career_name": "Post Graduate Diploma in Urban Planning & Development (PGDUP & D)",
+    "description": "A professional role focused on post graduate diploma in urban planning & development (pgdup & d) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Urban Planning",
+      "Geography",
+      "Economics",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Urban Planning"
+  },
+  {
+    "career_id": "C242",
+    "career_name": "Post Graduate Diploma in Disaster Management (PGDDM)",
+    "description": "This career involves post graduate diploma in disaster management (pgddm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Public Administration",
+      "Environmental Science",
+      "Geography",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Public Administration"
+  },
+  {
+    "career_id": "C243",
+    "career_name": "Post Graduate Diploma in Human Rights (PGDHR)",
+    "description": "This career involves post graduate diploma in human rights (pgdhr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Law & Public Service",
+      "Sociology",
+      "Political Science",
+      "History"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C244",
+    "career_name": "Post Graduate Diploma in International Law & Diplomacy (PGDILD)",
+    "description": "This career involves post graduate diploma in international law & diplomacy (pgdild) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Law & Public Service",
+      "Political Science",
+      "History",
+      "Economics"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C245",
+    "career_name": "Post Graduate Diploma in Cyber Law & Cyber Security (PGDCL & CS)",
+    "description": "A professional role focused on post graduate diploma in cyber law & cyber security (pgdcl & cs) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "IT & Software",
+      "Law & Public Service",
+      "Computer Science",
+      "Ethics"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C246",
+    "career_name": "Post Graduate Diploma in Intellectual Property Rights (PGDIPR)",
+    "description": "This career involves post graduate diploma in intellectual property rights (pgdipr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Law & Public Service",
+      "Business Studies",
+      "Economics",
+      "Legal Studies"
+    ],
+    "Suitable_Interests": "Law & Public Service"
+  },
+  {
+    "career_id": "C247",
+    "career_name": "Post Graduate Diploma in Data Science (PGDDS)",
+    "description": "A professional role focused on post graduate diploma in data science (pgdds) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "IT & Software",
+      "Sciences (Pure & Applied)",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C248",
+    "career_name": "Post Graduate Diploma in Artificial Intelligence & Machine Learning (PGDAI & ML)",
+    "description": "A professional role focused on post graduate diploma in artificial intelligence & machine learning (pgdai & ml) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "IT & Software",
+      "Engineering & Technology",
+      "Computer Science",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C249",
+    "career_name": "Post Graduate Diploma in Cloud Computing (PGDCC)",
+    "description": "A professional role focused on post graduate diploma in cloud computing (pgdcc) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "IT & Software",
+      "Engineering & Technology",
+      "Computer Science",
+      "Networking"
+    ],
+    "Suitable_Interests": "IT & Software"
+  },
+  {
+    "career_id": "C250",
+    "career_name": "Post Graduate Diploma in Digital Marketing (PGDDM)",
+    "description": "This career involves post graduate diploma in digital marketing (pgddm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing & Sales",
+      "Business & Management",
+      "Journalism & Mass Comm",
+      "Computer Science"
+    ],
+    "Suitable_Interests": "Marketing & Sales"
+  },
+  {
+    "career_id": "C251",
+    "career_name": "Post Graduate Diploma in Financial Planning & Wealth Management (PGDFPWM)",
+    "description": "This career involves post graduate diploma in financial planning & wealth management (pgdfpwm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance & Banking",
+      "Business & Management",
+      "Economics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C252",
+    "career_name": "Post Graduate Diploma in Investment Banking (PGDIB)",
+    "description": "This career involves post graduate diploma in investment banking (pgdib) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance & Banking",
+      "Business & Management",
+      "Economics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C253",
+    "career_name": "Post Graduate Diploma in Forex & Treasury Management (PGDFTM)",
+    "description": "This career involves post graduate diploma in forex & treasury management (pgdftm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance & Banking",
+      "Business & Management",
+      "Economics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C254",
+    "career_name": "Post Graduate Diploma in Banking & Finance (PGDBF)",
+    "description": "This career involves post graduate diploma in banking & finance (pgdbf) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Finance & Banking",
+      "Business & Management",
+      "Economics",
+      "Accountancy"
+    ],
+    "Suitable_Interests": "Finance & Banking"
+  },
+  {
+    "career_id": "C255",
+    "career_name": "Post Graduate Diploma in Retail Management (PGDRM)",
+    "description": "This career involves post graduate diploma in retail management (pgdrm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business & Management",
+      "Marketing & Sales",
+      "Economics",
+      "Management"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C256",
+    "career_name": "Post Graduate Diploma in Supply Chain Management (PGDSCM)",
+    "description": "This career involves post graduate diploma in supply chain management (pgdscm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business & Management",
+      "Logistics",
+      "Economics",
+      "Mathematics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C257",
+    "career_name": "Post Graduate Diploma in Operations Management (PGDOM)",
+    "description": "This career involves post graduate diploma in operations management (pgdom) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Business & Management",
+      "Engineering & Technology",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C258",
+    "career_name": "Post Graduate Diploma in Business Analytics (PGDBA)",
+    "description": "This career involves post graduate diploma in business analytics (pgdba) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Business & Management",
+      "IT & Software",
+      "Mathematics",
+      "Statistics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C259",
+    "career_name": "Post Graduate Diploma in International Business (PGDIB)",
+    "description": "This career involves post graduate diploma in international business (pgdib) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "0",
+    "E": "1",
+    "C": "1",
+    "required_subjects": [
+      "Business & Management",
+      "Economics",
+      "Political Science",
+      "Foreign Language"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C260",
+    "career_name": "Post Graduate Diploma in Entrepreneurship & Innovation (PGDEI)",
+    "description": "This career involves post graduate diploma in entrepreneurship & innovation (pgdei) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Business & Management",
+      "Marketing & Sales",
+      "Economics",
+      "Creativity"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C261",
+    "career_name": "Post Graduate Diploma in Human Resource Management (PGDHRM)",
+    "description": "This career involves post graduate diploma in human resource management (pgdhrm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Business & Management",
+      "Humanities & Social Sciences",
+      "Psychology",
+      "Economics"
+    ],
+    "Suitable_Interests": "Business & Management"
+  },
+  {
+    "career_id": "C262",
+    "career_name": "Post Graduate Diploma in Marketing Management (PGDMM)",
+    "description": "This career involves post graduate diploma in marketing management (pgdmm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing & Sales",
+      "Business & Management",
+      "Economics",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Marketing & Sales"
+  },
+  {
+    "career_id": "C263",
+    "career_name": "Post Graduate Diploma in Public Relations (PGDPR)",
+    "description": "This career involves post graduate diploma in public relations (pgdpr) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Journalism & Mass Comm",
+      "Business & Management",
+      "Sociology",
+      "English"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C264",
+    "career_name": "Post Graduate Diploma in Journalism (PGDJ)",
+    "description": "This career involves post graduate diploma in journalism (pgdj) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Journalism & Mass Comm",
+      "English",
+      "History",
+      "Political Science"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C265",
+    "career_name": "Post Graduate Diploma in Mass Communication (PGDMC)",
+    "description": "This career involves post graduate diploma in mass communication (pgdmc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Journalism & Mass Comm",
+      "English",
+      "Sociology",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Journalism & Mass Comm"
+  },
+  {
+    "career_id": "C266",
+    "career_name": "Post Graduate Diploma in Advertising & Brand Management (PGDABM)",
+    "description": "This career involves post graduate diploma in advertising & brand management (pgdabm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Marketing & Sales",
+      "Business & Management",
+      "Arts & Design",
+      "Psychology"
+    ],
+    "Suitable_Interests": "Marketing & Sales"
+  },
+  {
+    "career_id": "C267",
+    "career_name": "Post Graduate Diploma in Event Management (PGDEM)",
+    "description": "This career involves post graduate diploma in event management (pgdem) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Hospitality & Tourism",
+      "Business & Management",
+      "Marketing & Sales",
+      "Creativity"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C268",
+    "career_name": "Post Graduate Diploma in Tourism & Travel Management (PGDTTM)",
+    "description": "This career involves post graduate diploma in tourism & travel management (pgdttm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Hospitality & Tourism",
+      "Business & Management",
+      "Geography",
+      "Sociology"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C269",
+    "career_name": "Post Graduate Diploma in Hotel Management (PGDHM)",
+    "description": "This career involves post graduate diploma in hotel management (pgdhm) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "0",
+    "S": "1",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Hospitality & Tourism",
+      "Business & Management",
+      "Culinary Arts",
+      "Economics"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C270",
+    "career_name": "Post Graduate Diploma in Culinary Arts (PGDCA)",
+    "description": "This career involves post graduate diploma in culinary arts (pgdca) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Hospitality & Tourism",
+      "Chemistry",
+      "Biology",
+      "Fine Arts"
+    ],
+    "Suitable_Interests": "Hospitality & Tourism"
+  },
+  {
+    "career_id": "C271",
+    "career_name": "Post Graduate Diploma in Animation & Visual Effects (PGDAVFX)",
+    "description": "A professional role focused on post graduate diploma in animation & visual effects (pgdavfx) principles and applications. This field involves advanced problem-solving and innovation.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Animation & VFX",
+      "Arts & Design",
+      "Computer Science",
+      "Fine Arts"
+    ],
+    "Suitable_Interests": "Animation & VFX"
+  },
+  {
+    "career_id": "C272",
+    "career_name": "Post Graduate Diploma in Photography (PGDP)",
+    "description": "This career involves post graduate diploma in photography (pgdp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Arts & Design",
+      "Fine Arts",
+      "Mass Comm",
+      "English"
+    ],
+    "Suitable_Interests": "Animation & VFX"
+  },
+  {
+    "career_id": "C273",
+    "career_name": "Post Graduate Diploma in Film & Television Production (PGDFTP)",
+    "description": "This career involves post graduate diploma in film & television production (pgdftp) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Film & Television",
+      "Journalism & Mass Comm",
+      "Arts & Design",
+      "English"
+    ],
+    "Suitable_Interests": "Film & Television"
+  },
+  {
+    "career_id": "C274",
+    "career_name": "Post Graduate Diploma in Fashion Design (PGDFD)",
+    "description": "This career involves post graduate diploma in fashion design (pgdfd) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "1",
+    "C": "0",
+    "required_subjects": [
+      "Arts & Design",
+      "Fine Arts",
+      "Textile Engineering",
+      "Drawing"
+    ],
+    "Suitable_Interests": "Film & Television"
+  },
+  {
+    "career_id": "C275",
+    "career_name": "Post Graduate Diploma in Interior Design (PGDID)",
+    "description": "This career involves post graduate diploma in interior design (pgdid) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "0",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Arts & Design",
+      "Architecture",
+      "Fine Arts",
+      "Drawing"
+    ],
+    "Suitable_Interests": "Film & Television"
+  },
+  {
+    "career_id": "C276",
+    "career_name": "Post Graduate Diploma in Fine Arts (PGDFA)",
+    "description": "This career involves post graduate diploma in fine arts (pgdfa) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Arts & Design",
+      "History",
+      "Literature",
+      "Philosophy"
+    ],
+    "Suitable_Interests": "Film & Television"
+  },
+  {
+    "career_id": "C277",
+    "career_name": "Post Graduate Diploma in Museology & Conservation (PGDMC)",
+    "description": "This career involves post graduate diploma in museology & conservation (pgdmc) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "1",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Arts & Design",
+      "History",
+      "Archaeology",
+      "Chemistry"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C278",
+    "career_name": "Post Graduate Diploma in Archaeology (PGDA)",
+    "description": "This career involves post graduate diploma in archaeology (pgda) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "1",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Humanities & Social Sciences",
+      "History",
+      "Geography",
+      "Environmental Science"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C279",
+    "career_name": "Post Graduate Diploma in Library & Information Science (PGDLIS)",
+    "description": "This career involves post graduate diploma in library & information science (pgdlis) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "0",
+    "E": "0",
+    "C": "1",
+    "required_subjects": [
+      "Humanities & Social Sciences",
+      "Computer Science",
+      "English",
+      "General Knowledge"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C280",
+    "career_name": "Post Graduate Diploma in Foreign Language (PGDFL)",
+    "description": "This career involves post graduate diploma in foreign language (pgdfl) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "0",
+    "A": "1",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Humanities & Social Sciences",
+      "English",
+      "Literature",
+      "History"
+    ],
+    "Suitable_Interests": "Humanities & Social Sciences"
+  },
+  {
+    "career_id": "C281",
+    "career_name": "Post Graduate Diploma in Counselling & Guidance (PGDCG)",
+    "description": "This career involves post graduate diploma in counselling & guidance (pgdcg) tasks, applying specialized knowledge to deliver solutions and services.",
+    "R": "0",
+    "I": "1",
+    "A": "0",
+    "S": "1",
+    "E": "0",
+    "C": "0",
+    "required_subjects": [
+      "Education",
+      "Psychology",
+      "Sociology",
+      "Ethics"
+    ],
+    "Suitable_Interests": "Education"
+  }
+]

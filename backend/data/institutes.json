@@ -1,0 +1,5178 @@
+[
+  {
+    "Institution": "Osmania University",
+    "Type": "State University",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Jawaharlal Nehru Technological University (JNTUH)",
+    "Type": "State University",
+    "Primary Fields": "Technology, Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University of Hyderabad (UoH)",
+    "Type": "Central University",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Indian Institute of Technology (IIT)",
+    "Type": "National Institute",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "International Institute of Information Technology (IIIT-H)",
+    "Type": "Deemed University",
+    "Primary Fields": "Technology, Computer Science",
+    "Admission Criteria": "JEE (Main), UGEE, LEEE, DASA, SPEC",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "NALSAR University of Law",
+    "Type": "State University",
+    "Primary Fields": "Law",
+    "Admission Criteria": "CLAT",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Mahindra University",
+    "Type": "Private University",
+    "Primary Fields": "Multi-Disciplinary, Engineering, Law",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Woxsen University",
+    "Type": "Private University",
+    "Primary Fields": "Multi-Disciplinary, Business, Architecture",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government City College",
+    "Type": "Affiliated/Autonomous College",
+    "Primary Fields": "Commerce, Arts",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Nizam College",
+    "Type": "Affiliated/Autonomous College",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "JNTUH College of Engineering",
+    "Type": "Constituent College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University College of Engineering (UCE)",
+    "Type": "Constituent College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Gokaraju Rangaraju Institute of Engineering & Technology (GRIET)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Chaitanya Bharathi Institute of Technology (CBIT)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "VNR Vignana Jyothi Institute of Engineering & Technology (VNRVJIET)",
+    "Type": "Autonomous College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vasavi College of Engineering",
+    "Type": "Affiliated College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Anurag University",
+    "Type": "Private University",
+    "Primary Fields": "Multi-Disciplinary, Business",
+    "Admission Criteria": "TSICET",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Osmania Medical College",
+    "Type": "Government College",
+    "Primary Fields": "Medicine, Health Sciences",
+    "Admission Criteria": "NEET, NEET UG Counselling",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Nizam's Institute of Medical Sciences (NIMS)",
+    "Type": "Specialized Institution",
+    "Primary Fields": "Medical Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "National Institute of Pharmaceutical Education and Research (NIPER)",
+    "Type": "National Institute",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "NIPER JEE",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Bhaskar Pharmacy College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Gokaraju Rangaraju College of Pharmacy",
+    "Type": "Affiliated College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Sarojini Naidu Vanita Pharmacy Maha Vidyalaya",
+    "Type": "Affiliated College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Indian School of Business (ISB)",
+    "Type": "Private",
+    "Primary Fields": "Business, Management",
+    "Admission Criteria": "GMAT, GRE",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "ICFAI Foundation for Higher Education (IFHE) / IBS",
+    "Type": "Deemed University",
+    "Primary Fields": "Business, Management",
+    "Admission Criteria": "IBSAT, CAT, GMAT, NMAT",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Symbiosis Institute of Business Management (SIBM)",
+    "Type": "Private Institute",
+    "Primary Fields": "Business, Management",
+    "Admission Criteria": "SNAP score, Group Exercise, Personal Interaction",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Dr. B.R. Ambedkar Open University",
+    "Type": "State University",
+    "Primary Fields": "Law",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University College of Law",
+    "Type": "Constituent College",
+    "Primary Fields": "Law",
+    "Admission Criteria": "TS LAWCET",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "ICFAI Law School",
+    "Type": "Private/Affiliated College",
+    "Primary Fields": "Law",
+    "Admission Criteria": "CLAT, ILSAT, TS LAWCET",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "St. Francis College for Women",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "Based on 10+2 marks",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Badruka College of Commerce and Arts",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Indian Institute of Management and Commerce (IIMC)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Commerce",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Jawaharlal Nehru Architecture and Fine Arts University (JNAFAU)",
+    "Type": "State University",
+    "Primary Fields": "Architecture, Fine Arts",
+    "Admission Criteria": "NATA, FADEE",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "P.V. Narsimha Rao Telangana Veterinary University",
+    "Type": "State University",
+    "Primary Fields": "Veterinary Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Professor Jayashankar Telangana Agricultural University",
+    "Type": "State University",
+    "Primary Fields": "Agricultural Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Sri Konda Laxman Telangana State Horticultural University",
+    "Type": "State University",
+    "Primary Fields": "Horticultural Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "English and Foreign Languages University (EFLU)",
+    "Type": "Central University",
+    "Primary Fields": "Language Studies",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Maulana Azad National Urdu University (MANUU)",
+    "Type": "Central University",
+    "Primary Fields": "Language Studies",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Tata Institute of Social Sciences (TISS)",
+    "Type": "Research Institution",
+    "Primary Fields": "Social Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Centre for Economic and Social Studies (CESS)",
+    "Type": "Research Institution",
+    "Primary Fields": "Social Sciences",
+    "Admission Criteria": "",
+    "City": "Hyderabaad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "National Institute of Technology (NIT)",
+    "Type": "National Institute of Importance",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / JEE Advanced",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "SR University",
+    "Type": "Private University",
+    "Primary Fields": "Multi-Disciplinary (Engineering",
+    "Admission Criteria": "",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Kakatiya University (KU)",
+    "Type": "State Public University",
+    "Primary Fields": "Multi-Disciplinary (All Streams)",
+    "Admission Criteria": "UG: Merit / PG: KUPGCET; ICET; GATE",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "KITSW (Kakatiya Institute of Technology & Science)",
+    "Type": "Autonomous Engineering College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "TS EAMCET; JEE; PG exams",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vaagdevi College of Engineering (VCE)",
+    "Type": "Autonomous Engineering College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "TS EAMCET; JNTUH Counseling",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Kakatiya Medical College (KMC)",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine & Health Sciences",
+    "Admission Criteria": "NEET-UG",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "KNRUHS",
+    "Type": "State Health Sciences University",
+    "Primary Fields": "Medical & Allied Health Sciences",
+    "Admission Criteria": "NEET-UG; NEET-PG; EAPCET",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University College of Engineering & Technology (KU)",
+    "Type": "Constituent College (KU)",
+    "Primary Fields": "Multi-Disciplinary (All Streams)",
+    "Admission Criteria": "TS EAMCET",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Warangal Institute of Technology & Science (WITS)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "TS EAMCET",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Alluri Institute of Management Sciences",
+    "Type": "KU Affiliated College",
+    "Primary Fields": "Management & Business",
+    "Admission Criteria": "TSICET (MBA)",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vaagdevi College of Pharmacy",
+    "Type": "Private College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "TS EAMCET / Merit",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "CKM Arts and Science College",
+    "Type": "KU Affiliated College",
+    "Primary Fields": "Arts & Science ,law",
+    "Admission Criteria": "10+2 Merit, TS LAWCET / CLAT / Merit",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "ABV Government Degree College",
+    "Type": "KU Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Chaitanya PG College (MBA/MCA)",
+    "Type": "KU Affiliated College",
+    "Primary Fields": "Management & Computing",
+    "Admission Criteria": "TSICET / TS EAMCET",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Education Colleges ",
+    "Type": "KU Affiliated Colleges",
+    "Primary Fields": "Teacher Education (B.Ed,  M.Ed)",
+    "Admission Criteria": "",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Polytechnic Warangal",
+    "Type": "State Polytechnic",
+    "Primary Fields": "Diploma (Engineering & Technology)",
+    "Admission Criteria": "SSC / Polytechnic Entrance",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Aurobindo College of Pharmaceutical Sciences",
+    "Type": "KU Affiliated College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "TS EAMCET / Merit",
+    "City": "Warangal",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Telangana University (TU)",
+    "Type": "State Public University",
+    "Primary Fields": "Arts, Science, Commerce, Law, Education, Management",
+    "Admission Criteria": "UG: Merit/Counselling as per Govt norms; PG/Professional: TSICET (MBA/MCA), TS LAWCET (LLB), TU notifications",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University College of Law",
+    "Type": "Constituent College (TU)",
+    "Primary Fields": "Law",
+    "Admission Criteria": "TS LAWCET / TS PGLCET; University counselling",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Gnyana Saraswati College of Engineering & Technology (GSCET)",
+    "Type": "Private, Affiliated (JNTU Hyderabad)",
+    "Primary Fields": "Engineering, Management (MBA), M.Tech",
+    "Admission Criteria": "B.Tech: TS EAMCET; M.Tech: GATE/PGECET; MBA: TSICET",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Arkay College of Engineering & Technology (ARCET)",
+    "Type": "Private, Affiliated (JNTU Hyderabad)",
+    "Primary Fields": "Engineering (UG), Diploma",
+    "Admission Criteria": "B.Tech: TS EAMCET / Lateral Entry via TS ECET; Diploma: POLYCET/Institute norms",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Kshatriya College of Engineering (KCEA)",
+    "Type": "Private, Affiliated (JNTU Hyderabad)",
+    "Primary Fields": "Engineering, MBA",
+    "Admission Criteria": "B.Tech: TS EAMCET; MBA: TSICET; Lateral: TS ECET",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vijay Rural Engineering College (VREC)",
+    "Type": "Private, Affiliated (JNTU Hyderabad)",
+    "Primary Fields": "Engineering, MBA/MCA",
+    "Admission Criteria": "B.Tech: TS EAMCET; PG: TSICET / PGECET",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Medical College (GMC)",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine (MBBS, MD/MS)",
+    "Admission Criteria": "NEET-UG / NEET-PG with KNRUHS counselling",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government College of Nursing",
+    "Type": "Government Nursing College",
+    "Primary Fields": "Nursing (B.Sc. Nursing)",
+    "Admission Criteria": "10+2 (PCB) eligibility; KNRUHS B.Sc. Nursing admissions & counselling (merit-based)",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Tirumala College of Nursing",
+    "Type": "Private Nursing College",
+    "Primary Fields": "Nursing (B.Sc./GNM)",
+    "Admission Criteria": "10+2 (PCB) eligibility; State/KNRUHS counselling as notified",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Ganga Pharmacy College",
+    "Type": "Private Pharmacy College",
+    "Primary Fields": "Pharmacy (B.Pharm, M.Pharm)",
+    "Admission Criteria": "B.Pharm: TS EAMCET / Management quota; M.Pharm: GPAT/PGECET",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vijay College of Pharmacy",
+    "Type": "Private Pharmacy College",
+    "Primary Fields": "Pharmacy (B.Pharm, M.Pharm)",
+    "Admission Criteria": "B.Pharm: TS EAMCET; M.Pharm: GPAT/PGECET",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Tirumala College of Pharmacy",
+    "Type": "Private Pharmacy College",
+    "Primary Fields": "Pharmacy (B.Pharm, M.Pharm, Pharm.D)",
+    "Admission Criteria": "B.Pharm: TS EAMCET; M.Pharm: GPAT/PGECET; Pharm.D: as per PCI/KNRUHS norms",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Giriraj Government Degree College (Autonomous)",
+    "Type": "Government Degree College (Autonomous)",
+    "Primary Fields": "Autonomous Status; Affiliated to Telangana University",
+    "Admission Criteria": "UG Admissions via DOST (Telangana) / merit as per Govt norms",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University Post Graduate College",
+    "Type": "Constituent College (TU)",
+    "Primary Fields": "Telangana University",
+    "Admission Criteria": "PG admissions via TU notifications / state-level entrance (as applicable)",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Degree College",
+    "Type": "Government Degree College",
+    "Primary Fields": "Affiliated to Telangana University",
+    "Admission Criteria": "UG via DOST (Telangana) / merit",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government College of Teacher Education (IASE)",
+    "Type": "Government Teacher Education College",
+    "Primary Fields": "Affiliated to Telangana University / SCERT recognition",
+    "Admission Criteria": "EdCET / University & Govt counselling",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Polytechnic",
+    "Type": "State Polytechnic",
+    "Primary Fields": "SBTET Telangana",
+    "Admission Criteria": "TS POLYCET counselling",
+    "City": "Nizamabad",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Devi Ahilya Vishwavidyalaya (DAVV)",
+    "Type": "Public",
+    "Primary Fields": "Arts, Science, Commerce, Law, Management, Engineering, Medical, Education",
+    "Admission Criteria": " NAAC,CUET, MP PET, GPAT, GATE",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Technology (IIT) Indore",
+    "Type": "National Institute",
+    "Primary Fields": "Engineering and management",
+    "Admission Criteria": "JEE Advanced, GATE",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Management (IIM) Indore",
+    "Type": "Public",
+    "Primary Fields": "Management, Commerce",
+    "Admission Criteria": " AACSB,CAT, GMAT, GRE",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Medicaps University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Pharmacy, law",
+    "Admission Criteria": "JEE Main, MP PET, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Oriental University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Pharmacy",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "SAGE University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Design, , Media Studies",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Renaissance University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Design, Media Studies",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Malwanchal University",
+    "Type": "Private",
+    "Primary Fields": "Medical, Engineering, Management, Law, Pharmacy, Science",
+    "Admission Criteria": "NEET, JEE Main, University Entrance Test",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Shri Vaishnav Vidyapeeth Vishwavidyalaya",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Science, Commerce",
+    "Admission Criteria": "JEE Main, CLAT",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Symbiosis University of Applied Sciences",
+    "Type": "Private",
+    "Primary Fields": "Applied Sciences, Engineering, Management, Design",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Dr. A.P.J. Abdul Kalam University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Science, Commerce",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT Vidhyapeeth University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Science, Commerce",
+    "Admission Criteria": "University Entrance Test, CUET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Prestige Institute of Engineering Management and Research",
+    "Type": "Private",
+    "Primary Fields": "Management, Commerce, Computer Applications, Law",
+    "Admission Criteria": "CMAT, University Entrance Test,JEE Main",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Shri G.S. Institute of Technology & Science (SGSITS)",
+    "Type": "Government",
+    "Primary Fields": "Engineering, Technology, Applied Sciences",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Acropolis Institute of Technology and Research",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "IPS Academy",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications, Pharmacy",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indore Institute of Science and Technology (IIST)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Computer Applications, Management",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sushila Devi Bansal College ",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Astral Institute of Technology & Research",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Jagadguru Dattatry College of Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Lord Krishna College of Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Royal College of Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sanghvi Institute of Management & Science",
+    "Type": "Private",
+    "Primary Fields": "Management, Commerce, Computer Applications",
+    "Admission Criteria": "CMAT, University Entrance Test",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Techno Engineering College Indore",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Vindhya Institute of Technology & Science",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "B M College of Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Mahatma Gandhi Institute of Engineering & Management",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Mathura Devi Institute of Technology & Management",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Priyatam Institute of Technology & Management",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "RKDF School of Engineering",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Shiv Kumar Singh Institute of Technology & Science",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Star Academy of Technology & Management",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Vikrant Institute of Technology & Management",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sanghvi Institute of Engineering & Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Malwa Institute of Science & Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Computer Applications",
+    "Admission Criteria": "JEE Main, MP PET",
+    "City": "Indore",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "University of Delhi",
+    "Type": "Central/State University",
+    "Primary Fields": "Arts, Science, Commerce, Social Sciences, Law, Management, Engineering (some)",
+    "Admission Criteria": "CUET(UG) / CSAS (merit & CUET) ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Jawaharlal Nehru University (JNU)",
+    "Type": "Central University",
+    "Primary Fields": "Social Sciences, Science, Engineering, Language Studies",
+    "Admission Criteria": "University-specific entrance/tests / interviews for many programs",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Jamia Millia Islamia (JMI)",
+    "Type": "Central University",
+    "Primary Fields": "Engineering, Arts, Education, Mass Communication, Law, Management",
+    "Admission Criteria": "(CUET/JMI entrance/JEE/NEET/NATA)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Guru Gobind Singh Indraprastha University (GGSIPU / IPU)",
+    "Type": "State University",
+    "Primary Fields": "Engineering, Management, Law, Education, Architecture, Physiotherapy",
+    "Admission Criteria": "IPU CET / IPU CUET ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Ambedkar University Delhi (AUD)",
+    "Type": "State University",
+    "Primary Fields": "Humanities, Social Sciences, Education, Design, Law",
+    "Admission Criteria": " interviews/ CUET for UG ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Jamia Hamdard",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Pharmacy, Medical, Health Sciences, Management, Science",
+    "Admission Criteria": " NEET , university entrance for others",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Indira Gandhi National Open University (IGNOU) - New Delhi",
+    "Type": "Central Open University",
+    "Primary Fields": "Distance education across many fields",
+    "Admission Criteria": "Program-specific; mainly merit / eligibility criteria for distance programs",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "All India Institute of Medical Sciences (AIIMS)",
+    "Type": " New Delhi",
+    "Primary Fields": "Institute of National Importance",
+    "Admission Criteria": "NEET(UG) for MBBS; PG entrance for MD/MS",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "National Law University",
+    "Type": " Delhi (NLU Delhi)",
+    "Primary Fields": "State/National Law University",
+    "Admission Criteria": "CLAT / University-specific entrance (check current cycle)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "National Institute of Fashion Technology (NIFT) - New Delhi",
+    "Type": "Central Institute",
+    "Primary Fields": "Design, Fashion, Textile",
+    "Admission Criteria": "NIFT entrance exam (Creative / GAT)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Indian Institute of Technology Delhi (IIT Delhi) - (metro area)",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Engineering, Technology, Sciences, Management",
+    "Admission Criteria": "JEE Advanced for BTech; GATE/other for PG",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Hindu College (Delhi)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DU CSAS allocations based on CUET / merit",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "St. Stephen's College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Humanities",
+    "Admission Criteria": "DU CSAS / college-specific criteria (DU allocations)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Miranda House",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Hansraj College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Science, Commerce, Arts",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Sri Ram College of Commerce (SRCC)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Commerce, Economics",
+    "Admission Criteria": "DU CSAS (CUET) ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Ramjas College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Kirori Mal College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Ram Lal Anand College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Indraprastha College for Women (DU)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Jesus and Mary College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Shaheed Sukhdev College of Business Studies (SSCBS)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Business, Commerce, Management",
+    "Admission Criteria": "DU CSAS; program-specific cutoffs (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Lady Hardinge Medical College (LHMC)",
+    "Type": "Medical College (affiliated to DU)",
+    "Primary Fields": "Medical, Nursing",
+    "Admission Criteria": "NEET(UG) for MBBS; program-specific for nursing",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Maulana Azad Medical College (MAMC)",
+    "Type": "Medical College (affiliated to DU)",
+    "Primary Fields": "Medical, Research",
+    "Admission Criteria": "NEET(UG) for MBBS; NEET-PG for PG",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "College of Art (Delhi)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Fine Arts, Applied Arts",
+    "Admission Criteria": "Entrance / portfolio + DU admissions (program-specific)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Institute of Home Economics (DU)",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Home Science, Applied Arts",
+    "Admission Criteria": "DU CSAS (CUET) / ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Delhi Institute of Pharmaceutical Sciences and Research (DIPSAR)",
+    "Type": "College / Institute",
+    "Primary Fields": "Pharmacy, Pharmaceutical Sciences",
+    "Admission Criteria": "Entrance (GPAT/University) ",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Shaheed Rajguru College of Applied Sciences for Women",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Applied Sciences, Life Sciences",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Bhaskaracharya College of Applied Sciences",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Applied Sciences, Computer Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Sri Venkateswara College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Vivekananda College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Deen Dayal Upadhyaya College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Shivaji College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Keshav Mahavidyalaya",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Maharaja Agrasen College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Acharya Narendra Dev College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Aditi Mahavidyalaya",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "P.G.D.A.V. College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Zakir Husain Delhi College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Shyam Lal College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Sri Guru Tegh Bahadur Khalsa College",
+    "Type": "College (affiliated to DU)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DU CSAS (CUET)",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Nehru Homoeopathic Medical College and Hospital",
+    "Type": "Medical College (affiliated to DU)",
+    "Primary Fields": "Homoeopathy, Healthcare",
+    "Admission Criteria": "Entrance / merit as per regulations",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Amity University (Noida campus) - note: outside NCT",
+    "Type": "Private University (nearby)",
+    "Primary Fields": "Various (Engineering, Management, Law)",
+    "Admission Criteria": "University entrance/merit/management quotas",
+    "City": "Delhi",
+    "State": "Delhi"
+  },
+  {
+    "Institution": "Indian Institute of Science (IISc)",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Science, Engineering, Research",
+    "Admission Criteria": " (IISc exams)/GATE/Research entrance",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "IIM Bangalore",
+    "Type": "Autonomous (IIM)",
+    "Primary Fields": "Management",
+    "Admission Criteria": "CAT for MBA/PGPM; institute interviews",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "National Law School of India University (NLSIU)",
+    "Type": "National Law University",
+    "Primary Fields": "Law",
+    "Admission Criteria": "CLAT / university-specific ",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "National Institute of Mental Health and Neurosciences (NIMHANS)",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Mental Health, Neurosciences",
+    "Admission Criteria": " PG/PhD; NEET-PG ",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Bangalore University",
+    "Type": "State University",
+    "Primary Fields": "Arts, Science, Commerce, Management",
+    "Admission Criteria": "University/colleges admissions; merit/CET",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Christ University ",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Arts, Science, Commerce, Management, Law, Engineering",
+    "Admission Criteria": "Christ University entrance tests/interviews/merit",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Jain (Deemed-to-be) University",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Management, Commerce, Arts, Science",
+    "Admission Criteria": "University entrance tests/merit",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "PES University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management, Science",
+    "Admission Criteria": "PESSAT / university entrance; JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "RV College of Engineering (RVCE)",
+    "Type": "Autonomous / Affiliated (to VTU historically)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KCET/COMEDK/JEE depending on seat type; institute criteria for PG",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "B.M.S. College of Engineering (BMSCE)",
+    "Type": "Autonomous/College",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KCET/COMEDK/JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "R.V. University / R.V. College (RV University)",
+    "Type": "Private University / Deemed",
+    "Primary Fields": "Multidisciplinary",
+    "Admission Criteria": "University-specific entrance / merit",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "MS Ramaiah University of Applied Sciences",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Health Sciences, Management",
+    "Admission Criteria": "University entrance / merit / state CET for some programs",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Dayananda Sagar University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management, Science, Arts",
+    "Admission Criteria": "University entrance / merit / CET for some programs",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "CMR University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management, Law, Architecture",
+    "Admission Criteria": "CMRU entrance/merit",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "St. Joseph's College (Autonomous)",
+    "Type": "Autonomous college (affiliated to Bengaluru)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "College-specific + university admissions",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Mount Carmel College (MCC)",
+    "Type": "College (affiliated)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "College/university admissions; merit and entrance for some programs",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Presidency University ",
+    "Type": "College/University constituent",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University entrance/merit",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "St. John's Medical College",
+    "Type": "Private Medical College (Bengaluru)",
+    "Primary Fields": "Medical, Healthcare",
+    "Admission Criteria": "NEET(UG) for MBBS; NEET-PG for PG courses",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Kempegowda Institute of Medical Sciences (KIMS)",
+    "Type": "Medical College",
+    "Primary Fields": "Medical, Health Sciences",
+    "Admission Criteria": "NEET(UG) for MBBS; NEET-PG for PG",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "National Institute of Fashion Technology (NIFT) Bangalore",
+    "Type": "Central institute",
+    "Primary Fields": "Design, Fashion, Textile",
+    "Admission Criteria": "NIFT entrance exam (GAT/CAT)",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Indian Statistical Institute",
+    "Type": " Bangalore Centre",
+    "Primary Fields": "Research Institute",
+    "Admission Criteria": "ISI entrance tests, interviews",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Oxford College of Engineering",
+    "Type": "Affiliated college (VTU)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KCET/COMEDK/JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "New Horizon College of Engineering",
+    "Type": "Affiliated (VTU)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "KCET/COMEDK/JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "PES Institute of Technology / PES University",
+    "Type": "Private University/Institute",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "PESSAT/JEE/KCET/COMEDK depending",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Bangalore Institute of Technology (BIT)",
+    "Type": "Affiliated/Autonomous college",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KCET/COMEDK/JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Siddaganga Institute of Technology",
+    "Type": "Autonomous Institute",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "KCET/COMEDK/JEE",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "All India Institute of Speech and Hearing (AIISH) - Bengaluru",
+    "Type": "Institute",
+    "Primary Fields": "Speech, Hearing, Audiology",
+    "Admission Criteria": "Institute entrance tests",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Azim Premji University (Bengaluru)",
+    "Type": "Private University",
+    "Primary Fields": "Education, Development Studies, Public Policy",
+    "Admission Criteria": "University entrance / application review",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Seshadripuram First Grade College",
+    "Type": "Affiliated college",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "University/college admissions",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Kristu Jayanti College",
+    "Type": "Autonomous/Deemed streams",
+    "Primary Fields": "Arts, Science, Commerce, Management",
+    "Admission Criteria": "College/university entrance tests",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Government Medical College",
+    "Type": "Government Medical Colleges",
+    "Primary Fields": "NMC",
+    "Admission Criteria": "NEET(UG)",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "University Visvesvaraya College of Engineering (UVCE)",
+    "Type": "Constituent college (now part of Bangalore University / UVCE status)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KCET/JEE/COMEDK depending",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "Presidency University - Law & Technology faculties",
+    "Type": "Private University",
+    "Primary Fields": "Law, Engineering, Management",
+    "Admission Criteria": "University entrance / merit / CLAT for law (if applicable)",
+    "City": "Bengaluru",
+    "State": "Karnataka"
+  },
+  {
+    "Institution": "University of Mumbai",
+    "Type": "State University",
+    "Primary Fields": "Arts, Science, Commerce, Law, Management, Engineering (through affiliated colleges)",
+    "Admission Criteria": "Merit/CET",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "IIT Bombay",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Engineering, Technology, Science, Design, Management, Research",
+    "Admission Criteria": "JEE Advanced (BTech), UCEED (BDes), GATE (MTech), JAM (MSc), IITB tests/interviews (PhD)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Tata Institute of Social Sciences (TISS)",
+    "Type": "Deemed/University-level Institution",
+    "Primary Fields": "Social Sciences, Social Work, Public Policy, Health",
+    "Admission Criteria": " (TISSNET/CUET PG ) and interviews",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "SNDT Women's University (Mumbai)",
+    "Type": "State/University (women's)",
+    "Primary Fields": "Arts, Science, Home Science, Commerce, Education",
+    "Admission Criteria": "",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Narsee Monjee Institute of Management Studies (NMIMS) - Mumbai",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Management, Commerce, Engineering, Pharmacy, Law",
+    "Admission Criteria": "NPAT/NMAT/University-specific entrance ",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "K. J. Somaiya College of Engineering / Somaiya Vidyavihar",
+    "Type": "Private/Deemed group",
+    "Primary Fields": "Engineering, Management, Humanities",
+    "Admission Criteria": "State CET/JCET/college entrance, merit ",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Veermata Jijabai Technological Institute (VJTI)",
+    "Type": "Autonomous Govt. Engineering College",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "MHT-CET/JEE/State entrance for admissions; GATE for PG",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Institute of Chemical Technology (ICT Mumbai)",
+    "Type": "Deemed-to-be University/Research",
+    "Primary Fields": "Chemical Engineering, Pharmacy, Science, Technology",
+    "Admission Criteria": "University-specific entrance (ICT-CET/MHT-CET/JEE for some), GATE/GPAT for PG",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "St. Xavier's College (Mumbai)",
+    "Type": "College (affiliated to University of Mumbai)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University of Mumbai admissions (merit/college criteria)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "HR College of Commerce & Economics",
+    "Type": "Autonomous College (affiliated)",
+    "Primary Fields": "Commerce, Management, Economics",
+    "Admission Criteria": "College/university merit and entrance for select courses",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "K J Somaiya College of Arts & Commerce",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Arts, Commerce, Management",
+    "Admission Criteria": "MU admissions (merit)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Seth GS Medical College & KEM Hospital",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medical, Research",
+    "Admission Criteria": "NEET(UG) for MBBS; NEET-PG for PG courses",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Grant Medical College & Sir JJ Group of Hospitals",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medical, Research",
+    "Admission Criteria": "NEET(UG)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "St. John's National Academy of Health Sciences (note: primarily Bangalore)",
+    "Type": "(included for context)",
+    "Primary Fields": "Medical/Health",
+    "Admission Criteria": "NEET",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Sardar Patel College of Engineering (SPCE) - Mumbai",
+    "Type": "Government/Aided Engineering College",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "MHT-CET/JEE/State entrance",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Narsee Monjee College of Commerce & Economics (NM College)",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Commerce, Management",
+    "Admission Criteria": "University admissions (merit/entrance for select programs)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Sophia College for Women",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "MU admissions (merit)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "SIES (South Indian Education Society) College of Arts",
+    "Type": " College (affiliated to MU)",
+    "Primary Fields": "Science & Commerce",
+    "Admission Criteria": "MU admissions",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "National Institute of Industrial Engineering (NITIE) - Mumbai",
+    "Type": "Autonomous Postgraduate Institute",
+    "Primary Fields": "Industrial Engineering, Operations, Management",
+    "Admission Criteria": "GATE/CAT/Program specific entrance and interviews",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Rizvi College of Engineering (RCOEM is in Nagpur; Rizvi in Mumbai)",
+    "Type": "Engineering/Technical College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "MHT-CET/COMEDK/JEE",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Sir JJ College of Architecture",
+    "Type": "Architecture College (affiliated to MU)",
+    "Primary Fields": "Architecture, Planning",
+    "Admission Criteria": "NATA/Entrance + MU admissions",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Thakur College of Science & Commerce",
+    "Type": "College (affiliated)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "MU admissions",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Wilson College (Mumbai)",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "MU admissions",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "R. A. Podar College of Commerce & Economics (Podar College)",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Commerce, Management",
+    "Admission Criteria": "MU admissions (merit)",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "ITM Institute of Hotel Management (Mumbai)",
+    "Type": "College/Institute",
+    "Primary Fields": "Hospitality, Hotel Management",
+    "Admission Criteria": "Entrance tests / interviews",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Bharatiya Vidya Bhavan's Degree College",
+    "Type": "College (affiliated to MU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "MU admissions",
+    "City": "Mumbai",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Indian Institute of Technology Madras (IIT Madras)",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Engineering, Technology, Science, Research",
+    "Admission Criteria": "JEE Advanced for BTech; GATE for MTech; institute PhD entrance",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Anna University (Guindy)",
+    "Type": "State Technical University",
+    "Primary Fields": "Engineering, Technology, Applied Sciences",
+    "Admission Criteria": "TNEA/CET (state counselling) / university PG entrances for some programs.",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "University of Madras",
+    "Type": "State University",
+    "Primary Fields": "Arts, Science, Commerce, Social Sciences, Law",
+    "Admission Criteria": "University/college-specific admissions (merit/entrance for some programs).",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "IIT Madras Research Park (constituent)",
+    "Type": "Research/Institute",
+    "Primary Fields": "Research, Innovation, Technology Transfer",
+    "Admission Criteria": "Project/position-specific",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Madras Christian College (MCC)",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University of Madras admissions + college-specific criteria",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Loyola College",
+    "Type": " Chennai",
+    "Primary Fields": "Autonomous College (affiliated to University of Madras)",
+    "Admission Criteria": "University of Madras admissions + college-specific selection",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Stella Maris College",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science",
+    "Admission Criteria": "University admissions / college criteria",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Ethiraj College for Women",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University admissions",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Presidency College (Chennai)",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University admissions",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Queen Mary's College",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science",
+    "Admission Criteria": "University admissions",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Pachaiyappa's College",
+    "Type": "Aided / Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University admissions",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "The New College",
+    "Type": "Autonomous College (affiliated to University of Madras)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University admissions",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "VIT Chennai (Vellore Institute of Technology - Chennai campus)",
+    "Type": "Private University / Deemed (branch campus)",
+    "Primary Fields": "Engineering, Technology, Management",
+    "Admission Criteria": "VITEEE / university entrance / state criteria depending on program",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "SRM Institute of Science and Technology (Chennai)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Medicine, Management, Science, Humanities",
+    "Admission Criteria": "SRMJEEE / NEET for medical programs / university entrance tests",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Sathyabama Institute of Science and Technology (Sathyabama University)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Technology, Science, Management",
+    "Admission Criteria": "University entrance / TNEA / program-specific tests",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Hindustan Institute of Technology and Science (HITS)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Technology, Management",
+    "Admission Criteria": "University entrance / TNEA / program-specific tests",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "SSN College of Engineering",
+    "Type": "Autonomous College (Anna Univ. affiliated)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "TNEA/Anna Univ. counselling; institute-specific for some seats",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Madras Medical College (MMC) & Rajiv Gandhi Govt. General Hospital",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine, Surgery, Healthcare",
+    "Admission Criteria": "NEET(UG) for MBBS; NEET-PG for PG courses",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Stanley Medical College",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine, Healthcare",
+    "Admission Criteria": "NEET(UG)",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Sri Ramachandra Institute of Higher Education and Research (SRIHER)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Medical, Health Sciences, Dentistry, Pharmacy",
+    "Admission Criteria": "NEET for MBBS; university-specific tests for other programs",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Saveetha Institute of Medical and Technical Sciences (SIMATS)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Medicine, Engineering, Dentistry",
+    "Admission Criteria": "NEET for MBBS; university entrance for others",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Sree Balaji Medical College and Hospital",
+    "Type": "Private Medical College (Chennai region)",
+    "Primary Fields": "Medicine, Healthcare",
+    "Admission Criteria": "NEET(UG)",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Meenakshi Academy of Higher Education and Research (MAHER)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Medical, Dental, Allied Health, Pharmacy",
+    "Admission Criteria": "NEET for MBBS; university / program-specific for others",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Rajalakshmi Engineering College",
+    "Type": "Autonomous / Anna Univ affiliated",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "TNEA/Anna Univ counselling; institute quotas",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Vels University (Vels Institute)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Medicine, Engineering, Management, Arts & Science",
+    "Admission Criteria": "University entrance / program-specific tests",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Indian Maritime University - Chennai Campus",
+    "Type": "Central University",
+    "Primary Fields": "Maritime Studies, Nautical Science, Engineering",
+    "Admission Criteria": "IMU CET / entrance tests",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Tirumalai Engineering College (sample Anna Univ affiliated)",
+    "Type": "Anna University affiliated college",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "TNEA/Anna Univ counselling",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Meenakshi Sundararajan Engineering College (affiliated)",
+    "Type": "Anna Univ affiliated college",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "TNEA/Anna Univ counselling",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Madras School of Social Work (MSSW)",
+    "Type": "Autonomous Institution",
+    "Primary Fields": "Social Work, Management, Psychology",
+    "Admission Criteria": "Entrance / interview for PG programs",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Government College of Fine Arts (Madras)",
+    "Type": "Government College",
+    "Primary Fields": "Fine Arts, Applied Arts",
+    "Admission Criteria": "Entrance/portfolio",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Indian Institute of Information Technology",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Multidisciplinary",
+    "Admission Criteria": "JEE Main for BTech; GATE for MTech",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology (Vel Tech)",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "Vel Tech entrance / TNEA depending on program",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Madras Medical Mission (MMM) - Institute (private medical/health)",
+    "Type": "Private Medical/Healthcare Institute",
+    "Primary Fields": "Medical, Allied Health",
+    "Admission Criteria": "NEET / institute criteria",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Chennai Mathematical Institute (CMI) - (adjacent region)",
+    "Type": "Deemed Research Institute",
+    "Primary Fields": "Mathematics, Computer Science, Physics",
+    "Admission Criteria": "CMI entrance / interviews",
+    "City": "Chennai",
+    "State": "Tamil Nadu"
+  },
+  {
+    "Institution": "Savitribai Phule Pune University (SPPU)",
+    "Type": "State University",
+    "Primary Fields": "Arts, Science, Commerce, Engineering (through affiliated colleges), Management, Law",
+    "Admission Criteria": "University/college-specific; merit/CET/entrance for professional programs",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "College of Engineering Pune ",
+    "Type": "State Technological University (unitary)",
+    "Primary Fields": "Engineering, Technology, Research",
+    "Admission Criteria": "MHT-CET / JEE / state counselling; PG via GATE/college tests",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Fergusson College (Pune)",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "SPPU / college admission process (merit/CAP for FY entries)",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Symbiosis International (Deemed) University",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Multidisciplinary",
+    "Admission Criteria": "Symbiosis Entrance Test (SET)/SITEE; program-specific tests (e.g., SNAP, LSAT for some programs)",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Pune Institute of Computer Technology (PICT)",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Computer Science, IT, Electronics",
+    "Admission Criteria": "MHT-CET / JEE / institute criteria; PG via GATE/college entrance",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Bharati Vidyapeeth Deemed University",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Multidisciplinary",
+    "Admission Criteria": "University/PG admission tests; NEET for medical; CET/JEE for engineering where applicable",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Vishwakarma Institute of Technology (VIT Pune)",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "MHT-CET / JEE / institute processes; PG via GATE",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "D. Y. Patil College of Engineering (DYPCOE) - Pune",
+    "Type": "Private College (part of D.Y. Patil Group)",
+    "Primary Fields": "Engineering, Management, Health Sciences",
+    "Admission Criteria": "MHT-CET / JEE / institute entrance ",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "College of Military Engineering (CME) - Pune (defence)",
+    "Type": "Military Institute",
+    "Primary Fields": "Military Engineering, Civil Engineering research",
+    "Admission Criteria": "Service entry / institutional selection",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Army Institute of Technology (AIT)",
+    "Type": "Autonomous Institute",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "Institute entrance for wards of army personnel (merit/CET-based)",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Indian Institute of Science Education and Research (IISER) Pune",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Science Education & Research (Physics, Chemistry, Biology, Math)",
+    "Admission Criteria": " IISER Aptitude/ KVPY/ JEST / JEE Advanced ",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "G.H. Raisoni College of Engineering & Management",
+    "Type": "Private College (affiliated to SPPU)",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "MHT-CET/ JEE/ institute process",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "MIT Pune (MIT ADT University - formerly MIT Pune)",
+    "Type": "Private University (MIT-ADT)",
+    "Primary Fields": "Engineering, Management, Design, Pharmacy",
+    "Admission Criteria": "MIT-ADT entrance / MHT-CET / JEE",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Walchand College of Engineering ",
+    "Type": "Autonomous Engineering College ",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "MHT-CET / JEE / state counselling",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Savitribai Phule Pune University - Colleges",
+    "Type": " Modern College (representative)",
+    "Primary Fields": "Arts, Science, Commerce, Vocational",
+    "Admission Criteria": "SPPU admission rules; CAP counselling for FY UG ",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Sinhgad Institutes (group) - Sinhgad College of Engineering",
+    "Type": "Private Education Group (multiple colleges)",
+    "Primary Fields": "Multidisciplinary",
+    "Admission Criteria": "MHT-CET / JEE / institute specific",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Poona College of Pharmacy / Pharmacy colleges (representative)",
+    "Type": "Pharmacy Institutes (affiliated/private)",
+    "Primary Fields": "Pharmacy, Pharmaceutical Sciences",
+    "Admission Criteria": "MHT-CET / university entrance / GPAT for PG",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Institute of Hotel Management (IHM) - Pune region",
+    "Type": "Hospitality Institute / Government",
+    "Primary Fields": "Hotel Management, Hospitality, Culinary Arts",
+    "Admission Criteria": "Institute-specific entrance / merit",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Brihan Maharashtra College of Commerce (BMCC)",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Commerce, Management, Banking, Finance",
+    "Admission Criteria": "SPPU admissions (merit/CAP)",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Indira College of Commerce and Science (ICCS)",
+    "Type": "College (affiliated to SPPU)",
+    "Primary Fields": "Commerce, Science, Management",
+    "Admission Criteria": "SPPU admissions",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Pune Vidhyarthi Griha's College ",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "SPPU admissions",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Tilak Maharashtra Vidyapeeth (Deemed/State)",
+    "Type": "Deemed / State-level University (historic)",
+    "Primary Fields": "Education, Humanities, Social Sciences, Professional Courses",
+    "Admission Criteria": "University-specific admissions",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Indian Law Society's Law College ",
+    "Type": "Autonomous/College (affiliated to SPPU)",
+    "Primary Fields": "law",
+    "Admission Criteria": "College-specific entrance",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Cummins College of Engineering for Women",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Engineering (women-only)",
+    "Admission Criteria": "MHT-CET / JEE / institute process",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "AISSMS College of Engineering",
+    "Type": "Autonomous College (affiliated to SPPU)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "MHT-CET / JEE / state counselling",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "University of Pune - Research Centers & Institutes (representative)",
+    "Type": "Research Centers under SPPU",
+    "Primary Fields": "Research across disciplines",
+    "Admission Criteria": "Program-specific entrance / interviews",
+    "City": "Pune",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "University of Rajasthan (UniRaj)",
+    "Type": "Public",
+    "Primary Fields": "Arts, Science, Commerce, Law, Management, Social Sciences, Education",
+    "Admission Criteria": "CUET, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Malaviya National Institute of Technology (MNIT)",
+    "Type": "Public",
+    "Primary Fields": "Engineering, Technology, Sciences, Management",
+    "Admission Criteria": "JEE Main, GATE",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Manipal University Jaipur",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Design, Applied Sciences, Humanities",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Jaipur National University (JNU Jaipur)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Medical, Law, Arts, Sciences",
+    "Admission Criteria": "JEE Main, NEET, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Suresh Gyan Vihar University (SGVU)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences, Humanities",
+    "Admission Criteria": "JEE Main, CMAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Amity University Rajasthan",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Design, Applied Sciences",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Vivekananda Global University (VGU)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences, Humanities",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "University of Engineering & Management (UEM)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Poornima University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Design, Applied Sciences",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "NIMS University",
+    "Type": "Private",
+    "Primary Fields": "Medical, Engineering, Management, Law, Sciences",
+    "Admission Criteria": "NEET, JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "ICFAI University Jaipur",
+    "Type": "Private",
+    "Primary Fields": "Management, Commerce, Law, Sciences",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "JECRC University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "JK Lakshmipat University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Banasthali Vidyapith",
+    "Type": "Private (Women)",
+    "Primary Fields": "Arts, Science, Commerce, Education, Engineering",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Haridev Joshi University of Journalism & Mass Comm",
+    "Type": "State",
+    "Primary Fields": "Journalism, Mass Communication, Media Studies",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Rajasthan University of Health Sciences (RUHS)",
+    "Type": "State",
+    "Primary Fields": "Medical, Nursing, Pharmacy, Paramedical",
+    "Admission Criteria": "NEET, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Jagadguru Ramanandacharya Rajasthan Sanskrit University",
+    "Type": "State",
+    "Primary Fields": "Sanskrit, Vedic Studies, Philosophy",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Maharani College",
+    "Type": "Government",
+    "Primary Fields": "Arts, Science, Home Science, Education",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "SS Jain Subodh PG College",
+    "Type": "Private",
+    "Primary Fields": "Arts, Science, Commerce, Management",
+    "Admission Criteria": "University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "IIS (Deemed to be University)",
+    "Type": "Deemed",
+    "Primary Fields": "Engineering, Management, Design, Applied Sciences",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Arya College of Engineering & IT",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Applied Sciences",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "Rajasthan Institute of Engineering & Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Applied Sciences",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  },
+  {
+    "Institution": "University of Lucknow (LU)",
+    "Type": "Public",
+    "Primary Fields": "Arts, Science, Commerce, Law, Management, Social Sciences, Education",
+    "Admission Criteria": "CUET, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+    "Type": "Public",
+    "Primary Fields": "Engineering, Technology, Management, Applied Sciences",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Dr. Ram Manohar Lohia National Law University (RMLNLU)",
+    "Type": "Public",
+    "Primary Fields": "Law, Legal Studies",
+    "Admission Criteria": "CLAT, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Integral University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Sciences, Humanities",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Babasaheb Bhimrao Ambedkar University (BBAU)",
+    "Type": "Central",
+    "Primary Fields": "Arts, Science, Commerce, Social Sciences, Education",
+    "Admission Criteria": "CUET, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Era University",
+    "Type": "Private",
+    "Primary Fields": "Medical Sciences, Pharmacy, Nursing, Engineering",
+    "Admission Criteria": "NEET, JEE Main, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Amity University Lucknow",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Applied Sciences, Humanities",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Babu Banarasi Das University",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management, Law, Applied Sciences, Humanities",
+    "Admission Criteria": "JEE Main, CLAT, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Dr. Shakuntala Misra National Rehabilitation University",
+    "Type": "State",
+    "Primary Fields": "Disability Studies, Rehabilitation Sciences, Social Work",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Khwaja Moinuddin Chishti Language University",
+    "Type": "State",
+    "Primary Fields": "Languages, Linguistics, Literature",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Darul Uloom Nadwatul Ulama",
+    "Type": "Private",
+    "Primary Fields": "Islamic Studies, Arabic, Theology",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Maharishi University of Information Technology",
+    "Type": "Private",
+    "Primary Fields": "Information Technology, Management, Applied Sciences",
+    "Admission Criteria": "JEE Main, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "National Post Graduate College (NPGC)",
+    "Type": "Private",
+    "Primary Fields": "Arts, Science, Commerce, Management",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Isabella Thoburn College ",
+    "Type": "Private (Women)",
+    "Primary Fields": "Arts, Science, Commerce, Education",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Avadh Girls' Degree College",
+    "Type": "Private (Women)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "DAV PG College",
+    "Type": "Private",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Shia PG College",
+    "Type": "Private",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Rama Degree College",
+    "Type": "Private",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Khun Khun Ji Girls PG College",
+    "Type": "Private (Women)",
+    "Primary Fields": "Education (B.Ed)",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "AP Sen Memorial Girls Degree College",
+    "Type": "Private (Women)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Eram Girls Degree College",
+    "Type": "Private (Women)",
+    "Primary Fields": "Education (B.Ed, M.Ed)",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Arjunganj Vidya Mandir Degree College",
+    "Type": "Private",
+    "Primary Fields": "Arts",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Techno Institute of Management Sciences (TIMS)",
+    "Type": "Private",
+    "Primary Fields": "Management, Computer Applications",
+    "Admission Criteria": "UPSEE, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Institute of Cooperative and Corporate Management Research & Training ",
+    "Type": "Private",
+    "Primary Fields": "Management, Commerce, Economics",
+    "Admission Criteria": "UPSEE, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Jaipuria Institute of Management",
+    "Type": "Private",
+    "Primary Fields": "Management, Business Administration",
+    "Admission Criteria": "CAT, MAT, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Institute of Management Research and Technology (IMRT)",
+    "Type": "Private",
+    "Primary Fields": "Management, Commerce, Education",
+    "Admission Criteria": "UPSEE, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Ambalika Institute of Management and Technology",
+    "Type": "Public",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Academy of Management Excellence (AME)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Institute of Engineering and Technology (IET)",
+    "Type": "Public",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "UPSEE, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Shri Ram Murti Smarak College of Engineering and Technology ",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "SIMT (Sevdie Institute of Management & Technology)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "UPSEE, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Saroj Institute of Technology and Management (SITM)",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "B.N. College of Engineering and Technology",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "R. R. Group of Institutions",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE Main, UPSEE",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Government College of Architecture",
+    "Type": "Government",
+    "Primary Fields": "Architecture",
+    "Admission Criteria": "NATA, University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Bhatkhande Sanskriti Vishwavidyalaya",
+    "Type": "Public",
+    "Primary Fields": "Music, Performing Arts, Fine Arts",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Central Drug Research Institute (CDRI)",
+    "Type": "Research",
+    "Primary Fields": "Pharmaceutical Sciences, Medicinal Chemistry",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Central Institute of Medicinal and Aromatic Plants (CIMAP)",
+    "Type": "Research",
+    "Primary Fields": "Medicinal and Aromatic Plants, Biotechnology",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Central Institute of Plastics Engineering and Technology (CIPET)",
+    "Type": "Research",
+    "Primary Fields": "Plastics Engineering, Polymer Science",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Toxicology Research (IITR)",
+    "Type": "Research",
+    "Primary Fields": "Toxicology, Environmental Science",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "National Botanical Research Institute (NBRI)",
+    "Type": "Research",
+    "Primary Fields": "Botany, Plant Sciences",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Research Design and Standards Organisation (RDSO)",
+    "Type": "Research",
+    "Primary Fields": "Railway Engineering, Safety, Signaling",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Sugarcane Research (IISR)",
+    "Type": "Research",
+    "Primary Fields": "Sugarcane Research, Agricultural Sciences",
+    "Admission Criteria": "University Entrance Test",
+    "City": "lucknow",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "University of Calcutta (Calcutta University)",
+    "Type": "Public",
+    "Primary Fields": "Multi-Disciplinary ",
+    "Admission Criteria": "CUET / University entrance procedures",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Asutosh College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " CUET / University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Bethune College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Scottish Church College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "St. Xavier's College",
+    "Type": "Affiliated College (Autonomous)",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " College selection",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Lady Brabourne College",
+    "Type": "Affiliated College (Women)",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Maulana Azad College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "City College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Vidyasagar College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Surendranath College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Bangabasi College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Basanti Devi College",
+    "Type": "Affiliated College (Women)",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Behala College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Harimohan Ghose College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Rashbehari Siksha Mandir / related colleges",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Education",
+    "Admission Criteria": "University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Netaji Subhas Open University (NSOU)",
+    "Type": "State Open University",
+    "Primary Fields": "Distance & Open Learning",
+    "Admission Criteria": "Open admission ",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Jadavpur University",
+    "Type": "Public",
+    "Primary Fields": "Engineering, Arts & Science",
+    "Admission Criteria": "Typically JEE/University Phases ",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Presidency University",
+    "Type": "Public (State)",
+    "Primary Fields": "Arts, Social Sciences",
+    "Admission Criteria": "CUET / University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Rabindra Bharati University",
+    "Type": "Public (State)",
+    "Primary Fields": "Fine Arts,Humanities",
+    "Admission Criteria": "University admission / auditions",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Indian Statistical Institute (ISI)",
+    "Type": "Autonomous Research Institute",
+    "Primary Fields": "Statistics, Mathematics,Computer Science",
+    "Admission Criteria": "ISI selection tests / interviews",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "IIM Calcutta",
+    "Type": "Autonomous (IIM)",
+    "Primary Fields": "Management",
+    "Admission Criteria": "CAT / institute process",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Indian Institute of Engineering Science & Technology (IIEST) ",
+    "Type": "Central / Deemed",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main/GATE ",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Maulana Abul Kalam Azad University of Technology (MAKAUT)",
+    "Type": "State Technical University",
+    "Primary Fields": "Engineering, Technology, Management",
+    "Admission Criteria": "JEE Main",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Heritage Institute of Technology (HIT)",
+    "Type": "Affiliated to MAKAUT",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / MAKAUT counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Institute of Engineering & Management (IEM Kolkata)",
+    "Type": "Affiliated to MAKAUT",
+    "Primary Fields": "Engineering & Management",
+    "Admission Criteria": "JEE Main / MAKAUT counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Future Institute of Engineering and Management",
+    "Type": "Affiliated to MAKAUT",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / MAKAUT counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "NSHM Knowledge Campus (Kolkata)",
+    "Type": "Private/Deemed",
+    "Primary Fields": "Engineering, Management, Media",
+    "Admission Criteria": "University test / institute process",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Techno India Group (Techno India University / Techno affiliated colleges)",
+    "Type": "Private University & affiliated colleges",
+    "Primary Fields": "Engineering, Management,Applied Sciences",
+    "Admission Criteria": "JEE Main / University tests",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Calcutta Medical College (Medical College and Hospital)",
+    "Type": "Constituent Medical College",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG / WBUHS counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Nil Ratan Sircar Medical College (NRS Medical College)",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG / WBUHS counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Institute of Post Graduate Medical Education & Research (IPGMER / SSKM)",
+    "Type": "Government Medical Institute",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG / PG entrance",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "West Bengal University of Health Sciences (WBUHS)",
+    "Type": "State Health University",
+    "Primary Fields": "Medical, Nursing, Pharmacy,Paramedical",
+    "Admission Criteria": "NEET / university counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Ramakrishna Mission Seva Pratisthan (RKM)",
+    "Type": "Affiliated (WBUHS)",
+    "Primary Fields": "Medical & Allied",
+    "Admission Criteria": "NEET / WBUHS process",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Bengal Engineering and Science University-type institutes & technical colleges",
+    "Type": "Affiliated / Constituent",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "University of Kalyani ",
+    "Type": "Public",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "CUET / University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Suranjan Das College / colleges in metropolitan area",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts/Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Loreto College (St. Mary's Loreto institutions)",
+    "Type": "Affiliated College (Women)",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "St. Paul's Cathedral Mission College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": " University admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "The Indian College of Arts & Draftsmanship (affiliated to Rabindra Bharati University)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Fine Arts",
+    "Admission Criteria": "University/portfolio-based admission",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Bengal Music College / Music & Performing Arts colleges",
+    "Type": "Affiliated College",
+    "Primary Fields": "Music & Performing Arts",
+    "Admission Criteria": "Audition / university rules",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "City-based polytechnic and diploma colleges",
+    "Type": "Polytechnic / Diploma",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "POLYCET / state entry",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Research Institutes (CSIR/ICAR/ICMR institutes in Kolkata) ",
+    "Type": "Research",
+    "Primary Fields": "Pharmaceuticals, Medicinal Plants,Statistics",
+    "Admission Criteria": "Institute selection / project-based intake / CSIR NET or institute test",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Indian Institute of Management Calcutta (IIM-C)",
+    "Type": "Autonomous",
+    "Primary Fields": "Management",
+    "Admission Criteria": "CAT / institute process",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Satyajit Ray Film & Television Institute (SRFTI)",
+    "Type": "Autonomous",
+    "Primary Fields": "Film & Television",
+    "Admission Criteria": "Institute entrance test",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "Netaji Subhas Open University (NSOU)",
+    "Type": "State Open University",
+    "Primary Fields": "Distance Education",
+    "Admission Criteria": "Open admission / program rules",
+    "City": "kolkata",
+    "State": "West Bengal"
+  },
+  {
+    "Institution": "IIT Gandhinagar",
+    "Type": "Public (Institute of National Importance)",
+    "Primary Fields": "Engineering,Science",
+    "Admission Criteria": "JEE Advanced / GATE (PG)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "IIM Ahmedabad",
+    "Type": "Autonomous (IIM)",
+    "Primary Fields": "Management",
+    "Admission Criteria": "AACSB/AMBA/EQUIS/CAT / institute process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Gujarat University",
+    "Type": "State Public University",
+    "Primary Fields": "Multi-Disciplinary ",
+    "Admission Criteria": "University Entrance / CUET (where applicable)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Gujarat Technological University (GTU)",
+    "Type": "State Technical University",
+    "Primary Fields": "Engineering, Pharmacy, Management",
+    "Admission Criteria": "JEE Main / GUJCET  / GTU PG processes",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Nirma University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management,Law,Pharmacy",
+    "Admission Criteria": "JEE Main / University Entrance / CLAT (law)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Ahmedabad University",
+    "Type": "Private University",
+    "Primary Fields": "Multi-Disciplinary (Arts,Engineering)",
+    "Admission Criteria": "University Entrance / SAT / University tests",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "CEPT University",
+    "Type": "Deemed/State (specialized)",
+    "Primary Fields": "Architecture,Design",
+    "Admission Criteria": "UGC/NAAC/NATA / CEPT Entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Pandit Deendayal Petroleum University (PDPU)",
+    "Type": "Private University",
+    "Primary Fields": "Engineering,Management",
+    "Admission Criteria": "JEE Main / University test / GPET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Maharaja Sayajirao University (MSU) Baroda (Vadodara - nearby)",
+    "Type": "State",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": " NAAC,University Entrance / CUET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "B. J. Medical College (BJMC)",
+    "Type": "Constituent Medical College (Ahmedabad Municipal)",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "GMERS Medical College (Civil Hospital) Ahmedabad",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Gujarat National Law University (GNLU)",
+    "Type": "National Law University",
+    "Primary Fields": "BCI; UGC",
+    "Admission Criteria": "CLAT / University process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "St. Xavier's College",
+    "Type": "Autonomous / Affiliated College",
+    "Primary Fields": " Commerce, Science",
+    "Admission Criteria": "10+2 merit / University process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "M.S. University Constituent/affiliated colleges (example entries)",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Arts/Science/Commerce",
+    "Admission Criteria": "10+2 / University admission",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Kadi Sarva Vishwavidyalaya (KSV) ",
+    "Type": "Private/State-recognized University",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "University Entrance tests",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Dr. Babasaheb Ambedkar Open University ",
+    "Type": "State Open University",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "Open admission / program criteria",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "NHS (Nirma Health Sciences) ",
+    "Type": "Affiliated/Constituent",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "GPAT/State counselling",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sarvajanik College of Engineering & Technology (SCET)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / GUJCET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sal Institute of Technology & Engineering Research (SIT)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / GUJCET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Marwadi University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management,Law,Pharmacy",
+    "Admission Criteria": "NAAC,JEE Main / University Entrance / CLAT (law)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sardar Vallabhbhai Patel Institute of Technology (SVIT)",
+    "Type": "Private/Autonomous",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Naran Lala Hospital / Allied Health institutes",
+    "Type": "Medical/Allied",
+    "Primary Fields": "Allied Health",
+    "Admission Criteria": "NEET / state counselling / institute process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sheth L.G. Institute of Technology & Engineering (LGIT)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / GUJCET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Ipcowala Institute ",
+    "Type": "Private",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "TS EAMCET-style or GPAT/State processes",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "D. D. Institute of Engineering & Technology",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / GUJCET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Calorx Teachers' University / Teacher Education Institutes",
+    "Type": "Private / Deemed",
+    "Primary Fields": "Education (B.Ed/M.Ed)",
+    "Admission Criteria": "University CET / NCTE regulated entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Hemchandracharya North Gujarat University (HNGU) (nearby)",
+    "Type": "State University",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "NAAC,University Entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sardar Patel University (SPU)",
+    "Type": "State / Deemed",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": " NAAC,University Entrance / CUET",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Shree Swaminarayan Gurukul Vishwavidyalaya (SSGV)",
+    "Type": "Private/Deemed",
+    "Primary Fields": "Multi-disciplinary",
+    "Admission Criteria": "University entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Gujarat Ayurved University ",
+    "Type": "State ",
+    "Primary Fields": "Ayurvedic",
+    "Admission Criteria": "NEET/AYUSH entrance (where applicable)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Institute of Pharmacy",
+    "Type": " Nirma University (IPS)",
+    "Primary Fields": "PCI; UGC",
+    "Admission Criteria": "GPAT / University counselling",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Nirma Institute of Technology (NIT - Nirma)",
+    "Type": "Constituent (Nirma University)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / University tests",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Amrut Mody School of Management (Ahmedabad University)",
+    "Type": "Constituent (Ahmedabad Univ.)",
+    "Primary Fields": "Management",
+    "Admission Criteria": "University Entrance / GMAT (some programs)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Government Polytechnic",
+    "Type": "State Polytechnic",
+    "Primary Fields": "Polytechnic",
+    "Admission Criteria": "POLYCET / State counselling",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Shrimad Rajchandra Institute of Management & Computer Application (SRIMCA)",
+    "Type": "Private",
+    "Primary Fields": "Management & IT",
+    "Admission Criteria": "University entrance tests / CMAT",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Shanti Business School (SBS)",
+    "Type": "Private",
+    "Primary Fields": "Management",
+    "Admission Criteria": "CMAT / institute process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Sheth C.N. College of Commerce",
+    "Type": "Affiliated College",
+    "Primary Fields": "Commerce",
+    "Admission Criteria": "10+2 merit / University process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "H.M. Patel Institute of English Training & Research (HM Patel)",
+    "Type": "Constituent / Affiliated",
+    "Primary Fields": "Language & Education",
+    "Admission Criteria": "University entry / merit",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Law colleges affiliated to Gujarat University",
+    "Type": "Affiliated College",
+    "Primary Fields": "Law",
+    "Admission Criteria": "CLAT / University law entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "H.K. College of Pharmacy ",
+    "Type": "Affiliated College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "GPAT / State processes",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Shroff S.R. Rotary Institute of Chemical Technology (SRICT)",
+    "Type": "Private/Autonomous",
+    "Primary Fields": "Pharmaceuticals",
+    "Admission Criteria": "GPAT / University tests",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Research institutes ",
+    "Type": "Research",
+    "Primary Fields": "ISRO/UGC/CSIR",
+    "Admission Criteria": "Institute selection / tests",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Centre for Environmental Planning & Technology (CEPT) ",
+    "Type": "Constituent",
+    "Primary Fields": "Architecture/Design/Planning",
+    "Admission Criteria": "NATA / CEPT entrance",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Indian Institute of Public Health Gandhinagar (IIPHG) - near Ahmedabad",
+    "Type": "Public/Deemed",
+    "Primary Fields": "Public Health",
+    "Admission Criteria": "Institute tests / NEET-PG (for some)",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "S.P. University affiliated colleges (examples)",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Arts/Science/Commerce",
+    "Admission Criteria": "10+2 / University process",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Gujarat Vidyapith ",
+    "Type": "Deemed/State",
+    "Primary Fields": "Arts,History,Social Sciences",
+    "Admission Criteria": "University admissions",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Industrial training institutes & polytechnics (many)",
+    "Type": "Government/Private",
+    "Primary Fields": "Vocational & Diploma",
+    "Admission Criteria": "State entry tests / merit",
+    "City": "Ahmedabad",
+    "State": "Gujarat"
+  },
+  {
+    "Institution": "Maulana Azad National Institute of Technology (MANIT) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / GATE (PG)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "All India Institute of Medical Sciences (AIIMS) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG / NEET-PG",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "National Law Institute University (NLIU) Bhopal",
+    "Type": "National Law University",
+    "Primary Fields": "Law",
+    "Admission Criteria": "CLAT / University procedure",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Science Education and Research (IISER) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Science & Research",
+    "Admission Criteria": "Science entrance (IISER Aptitude/JEEMains channels)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Information Technology (IIIT) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Information Technology",
+    "Admission Criteria": "JEE Main / GATE (PG)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "School of Planning and Architecture (SPA) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Architecture & Planning",
+    "Admission Criteria": "NATA / Entrance",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "National Institute of Design (NID) Bhopal",
+    "Type": "Institute of National Importance",
+    "Primary Fields": "Design & Applied Arts",
+    "Admission Criteria": " NID entrance / Design tests",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Barkatullah University (BU)",
+    "Type": "State Public University",
+    "Primary Fields": "Multi-disciplinary ",
+    "Admission Criteria": " University entrance (BU exams) / CUET ",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)",
+    "Type": "State Technical University",
+    "Primary Fields": "Engineering, Pharmacy, Management",
+    "Admission Criteria": "JEE Main; State counselling (GATE/GPAT for PG)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Jagran Lakecity University (JLU)",
+    "Type": "Private University",
+    "Primary Fields": "Multi-disciplinary ",
+    "Admission Criteria": "University Entrance Test / JEE Main (for engg)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "RKDF University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering,Pharmacy,Science",
+    "Admission Criteria": "University entrance test / JEE Main / NEET (where applicable)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT Group / LNCT University (Bhopal)",
+    "Type": "Private University & Group",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / University test",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Madhya Pradesh Bhoj Open University (Bhoj Open University)",
+    "Type": "State Open University",
+    "Primary Fields": "Distance & Open Learning",
+    "Admission Criteria": "Open admission / program-specific criteria",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Makhanlal Chaturvedi National University of Journalism & Communication (MCNUJC)",
+    "Type": "State/Deemed",
+    "Primary Fields": "Journalism & Mass Communication",
+    "Admission Criteria": "University Entrance Test / University process",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "VIT Bhopal University (VIT Bhopal)",
+    "Type": "Private University",
+    "Primary Fields": "Engineering,Science",
+    "Admission Criteria": "JEE Main / University Entrance",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Atal Bihari Vajpayee Hindi Vishwavidyalaya",
+    "Type": "State University",
+    "Primary Fields": "Hindi language & literature",
+    "Admission Criteria": "University Entrance / Merit",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sarvepalli Radhakrishnan University (SRKU)",
+    "Type": "State University",
+    "Primary Fields": "Multi-disciplinary",
+    "Admission Criteria": "University Entrance Test",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Radharaman Group of Institutions / Radharaman Institute of Technology & Science",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Oriental Institute of Science & Technology (OIST)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Management",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Technocrats Group of Institutions (TIT / TIT College)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sagar Institute of Research & Technology (SIRT)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Management",
+    "Admission Criteria": "JEE Main / State counseling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Patel College of Science & Technology (PCST)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT Institute of Technology and Management (LNCT Group colleges)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering & Management",
+    "Admission Criteria": "JEE Main / University process",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "RKDF College of Technology & Research (constituent)",
+    "Type": "Private/Constituent",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "University entrance / JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Vedica Institute of Technology (RKDF group)",
+    "Type": "Constituent College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "University Entrance / JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Bhabha Institute of Technology / Bhabha College of Engineering",
+    "Type": "Constituent/Private",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / University process",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Agnos College of Technology",
+    "Type": "Constituent/Private",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / University process",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Government Engineering College (GEC) Bhopal",
+    "Type": "Government College",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Sushila Devi Bansal Group ",
+    "Type": "Private College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT International / Group - Pharmacy & Management colleges",
+    "Type": "Private/Group",
+    "Primary Fields": "Pharmacy & Management",
+    "Admission Criteria": "GPAT / CMAT / JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Government Medical College (GMC) Bhopal (Gandhi Medical College)",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "People's College of Medical Sciences & Research (PCMS)",
+    "Type": "Private Medical College",
+    "Primary Fields": "Medicine & Allied",
+    "Admission Criteria": "NEET-UG",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Victorious / other private pharmacy colleges (examples)",
+    "Type": "Private College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "GPAT / State processes",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Government Polytechnic",
+    "Type": "State Polytechnic",
+    "Primary Fields": "Polytechnic",
+    "Admission Criteria": "POLYCET / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Institute of Forest Management (IFM / IIFM Bhopal)",
+    "Type": "Autonomous Research Institute",
+    "Primary Fields": "Forest Management & Environmental Studies",
+    "Admission Criteria": "Institute selection / CAT (for management programs)",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "National Institute for Research in Tribal Health / other research centres",
+    "Type": "Research",
+    "Primary Fields": "Health & Allied Research",
+    "Admission Criteria": "Institute selection / UGC-CSIR tests",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "National Institute of Design (NID) Bhopal - campus",
+    "Type": "Institute",
+    "Primary Fields": "Design & Applied Arts",
+    "Admission Criteria": "NID entrance",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "School of Planning & Architecture (SPA) Bhopal (listed earlier)",
+    "Type": "Institute",
+    "Primary Fields": "Architecture & Planning",
+    "Admission Criteria": "NATA / SPA test",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Jagran Lakecity University (constituent colleges)",
+    "Type": "Private University",
+    "Primary Fields": "Engineering,Law.Media",
+    "Admission Criteria": "UGC/JEE mains",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT Group - Dental / Nursing / Allied Health colleges (group entries)",
+    "Type": "Private/Affiliated",
+    "Primary Fields": "Medical Allied Health",
+    "Admission Criteria": "NEET / State counselling / University rules",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Indore / Bhopal inter-state affiliated colleges (example entries)",
+    "Type": "Affiliated",
+    "Primary Fields": "Various",
+    "Admission Criteria": "Respective entrance tests",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Bhopal School of Social Sciences (Autonomous college under BU)",
+    "Type": "Autonomous College",
+    "Primary Fields": "Social Sciences & Management",
+    "Admission Criteria": "University merit / entrance",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Government Motilal Vigyan Mahavidyalaya (Govt Motilal Science College)",
+    "Type": "Government College",
+    "Primary Fields": "Science & Commerce",
+    "Admission Criteria": "10+2 Merit / University process",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Govt ML B Girls PG College Bhopal",
+    "Type": "Government College",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "10+2 Merit",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Vidhyapeeth Institute of Technology & Management (example affiliated college)",
+    "Type": "Private/Affiliated",
+    "Primary Fields": "Engineering & Management",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Pharmacy colleges (examples: Institute of Pharmacy BU / RGPV affiliates)",
+    "Type": "Affiliated",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "TS style entry / GPAT for PG",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Teachers Training & B.Ed colleges (Govt / Private)",
+    "Type": "Affiliated",
+    "Primary Fields": "Education (B.Ed/M.Ed)",
+    "Admission Criteria": "EdCET / University rules",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Arts & Science Degree Colleges affiliated to Barkatullah University (sample list)",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "10+2 Merit / University admission",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Professional & Management Institutes ",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Management & Commerce",
+    "Admission Criteria": "CMAT / University entrance test",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Rajiv Gandhi College of Pharmacy ",
+    "Type": "Private/Affiliated",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "GPAT / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "RGPV Constituent & Affiliated Engineering Colleges in Bhopal region",
+    "Type": "Affiliated to RGPV",
+    "Primary Fields": "Engineering & Technology",
+    "Admission Criteria": "JEE Main / State counselling",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "LNCT University constituent colleges ",
+    "Type": "Constituent / Private",
+    "Primary Fields": "Engineering,Pharmacy",
+    "Admission Criteria": "University test / JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "RKDF University constituent colleges ",
+    "Type": "Constituent / Private",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "University entrance / JEE Main",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Barkatullah University affiliated colleges",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Arts/Science/Commerce/Professional",
+    "Admission Criteria": "10+2 / entrance as per course",
+    "City": "bhopal",
+    "State": "Madhya Pradesh"
+  },
+  {
+    "Institution": "Satavahana University",
+    "Type": "University",
+    "Primary Fields": "Arts, Science, Commerce, PG & Research",
+    "Admission Criteria": "University admissions / PG via CPGET",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Dr. B.R. Ambedkar Open University (Study Centre)",
+    "Type": "University (Open)",
+    "Primary Fields": "Distance education: multiple fields",
+    "Admission Criteria": "Open University admission rules",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Jyothismathi Institute of Technology and Science (JITS)",
+    "Type": "Engineering College",
+    "Primary Fields": "Engineering (B.Tech), MCA",
+    "Admission Criteria": "TS EAMCET / college-specific counselling",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vaageswari College of Engineering",
+    "Type": "Engineering College",
+    "Primary Fields": "Engineering (B.Tech)",
+    "Admission Criteria": "TS EAMCET",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Sree Chaitanya College of Engineering",
+    "Type": "Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "TS EAMCET",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Chalmeda Anand Rao Institute of Medical Sciences (CAIMS)",
+    "Type": "Medical College",
+    "Primary Fields": "MBBS, Medical Sciences",
+    "Admission Criteria": "NEET (UG) + KNRUHS affiliation",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Prathima Institute of Medical Sciences",
+    "Type": "Medical College",
+    "Primary Fields": "MBBS, Nursing",
+    "Admission Criteria": "NEET",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "SRR Government Arts & Science College (Autonomous)",
+    "Type": "Degree College (Govt)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DOST state degree admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University College of Pharmaceutical Sciences (Katta Rampur)",
+    "Type": "Pharmacy College (University)",
+    "Primary Fields": "Pharmacy (B.Pharm, M.Pharm)",
+    "Admission Criteria": "Admissions via EAMCET / university entrance",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vaagdevi Degree & PG College",
+    "Type": "Degree & PG College (Private)",
+    "Primary Fields": "Arts, Science, Commerce, Management",
+    "Admission Criteria": "DOST / college-specific PG admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vivekananda Degree & PG College",
+    "Type": "Degree & PG College",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "SRR College of Pharmaceutical Sciences",
+    "Type": "Pharmacy College",
+    "Primary Fields": "Pharmacy",
+    "Admission Criteria": "EAMCET / university procedures",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Maagna College of Hotel Management & Tourism",
+    "Type": "College (Vocational)",
+    "Primary Fields": "Hotel Management, Tourism",
+    "Admission Criteria": "College-specific entrance / merit",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vaageswari Group of Institutions ",
+    "Type": "Private",
+    "Primary Fields": "Engineering, Pharmacy, Management",
+    "Admission Criteria": "AICTE/PCI /TS EAMCET / college admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Maharshi Degree College",
+    "Type": "Degree College",
+    "Primary Fields": "Management",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Kamala Institute of Technology & Science",
+    "Type": "Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "TS EAMCET",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Venkateshwara Junior College",
+    "Type": "Junior College (Intermediate)",
+    "Primary Fields": "Intermediate (Science, Arts, Commerce)",
+    "Admission Criteria": "TS Inter admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Apoorva Degree College (Women)",
+    "Type": "Degree College (Women's)",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "KITS / Kaloji Narayana Rao University of Health Sciences affiliated institutes (Karimnagar medical colleges)",
+    "Type": "Health Sciences Affiliations",
+    "Primary Fields": "Medical, Nursing, Allied Health",
+    "Admission Criteria": "NEET for MBBS; KNRUHS for affiliations and admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "University PG College",
+    "Type": "Degree & PG College",
+    "Primary Fields": "Management",
+    "Admission Criteria": "University / PG admissions (CPGET where applicable)",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Sree Chaitanya Degree & PG College",
+    "Type": "Degree & PG College",
+    "Primary Fields": "Private unaided",
+    "Admission Criteria": "DOST / PG entrance tests",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vanisri Degree College",
+    "Type": "Degree College",
+    "Primary Fields": "Arts & Commerce",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Alphores Women's Degree & PG College",
+    "Type": "Degree College (Women's)",
+    "Primary Fields": "Arts, Commerce",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Degree College for Women",
+    "Type": "Government Degree College",
+    "Primary Fields": "Multi-discipilanary",
+    "Admission Criteria": "DOST / state admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "SRM Degree & PG College",
+    "Type": "Degree & PG College",
+    "Primary Fields": "Multi-discipilanary",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Pragathi Degree College (example regional)",
+    "Type": "Degree College",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "DOST",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Jyothishmathi Institute of Technology and Science (JITS) - Pharmacy & Engineering wings",
+    "Type": "Engineering & Pharmacy",
+    "Primary Fields": "Engineering, Pharmacy",
+    "Admission Criteria": "TS EAMCET / EAMCET for pharmacy",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Kakatiya University (nearby affiliations)",
+    "Type": "University (regional reference)",
+    "Primary Fields": "Various fields",
+    "Admission Criteria": "University admissions / entrance tests",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Government Junior Colleges (multiple) - Karimnagar",
+    "Type": "Junior Colleges (Intermediate)",
+    "Primary Fields": "Intermediate Science/Arts/Commerce",
+    "Admission Criteria": "TS Inter admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Polytechnic Colleges (Govt & Private) - Karimnagar",
+    "Type": "Polytechnic",
+    "Primary Fields": "Diploma Engineering",
+    "Admission Criteria": "TS POLYCET / state diploma admission",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Nursing Colleges (multiple) - Karimnagar",
+    "Type": "Nursing / Allied Health",
+    "Primary Fields": "Nursing, ANM, GNM",
+    "Admission Criteria": "State/national nursing entrance or college merit",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Teacher Education (B.Ed/M.Ed) Colleges - Karimnagar",
+    "Type": "Education Colleges",
+    "Primary Fields": "B.Ed, M.Ed",
+    "Admission Criteria": "University / B.Ed admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Vidyalatha Degree College of Commerce and Business Management",
+    "Type": "Degree College",
+    "Primary Fields": "Commerce, Management",
+    "Admission Criteria": "DOST / college admissions",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Chalmeda Anand Rao Institute - affiliated hospitals/clinics (medical training)",
+    "Type": "Medical Training / Hospital",
+    "Primary Fields": "Clinical training for MBBS/Nursing",
+    "Admission Criteria": "NEET / KNRUHS",
+    "City": "Karimnagar",
+    "State": "Telangana"
+  },
+  {
+    "Institution": "Gurugram University",
+    "Type": "Public University",
+    "Primary Fields": "Arts, Science, Commerce, Education, Management",
+    "Admission Criteria": "Merit-based / University entrance; college-specific",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Amity University",
+    "Type": "Private University",
+    "Primary Fields": "Various program ",
+    "Admission Criteria": "Merit / Amity Entrance / CUET (where applicable)",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "The NorthCap University (NCU)",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management, Law, Sciences",
+    "Admission Criteria": "Merit / University-specific entrance tests",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "K.R. Mangalam University",
+    "Type": "Private University",
+    "Primary Fields": "Engineering, Management, Law, Humanities",
+    "Admission Criteria": "Merit / University entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "GD Goenka University",
+    "Type": "Private University",
+    "Primary Fields": "Management, Engineering, Law, Design",
+    "Admission Criteria": "Merit / University entrance tests",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "BML Munjal University",
+    "Type": "Private University",
+    "Primary Fields": "Management, Engineering, Economics",
+    "Admission Criteria": "Entrance (university-specific), merit",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Apeejay Stya University (Sohna)",
+    "Type": "Private University",
+    "Primary Fields": "Management, Law, Hospitality, Engineering",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Ansal University",
+    "Type": "Private University",
+    "Primary Fields": "Management, Architecture, Design",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Management Development Institute (MDI)",
+    "Type": "Management Institute (Deemed/Autonomous)",
+    "Primary Fields": "Management",
+    "Admission Criteria": "CAT / Institute selection",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Dronacharya College of Engineering (DCE)",
+    "Type": "Engineering College (Affiliated/Autonomous)",
+    "Primary Fields": "Engineering (B.Tech), MCA, MBA",
+    "Admission Criteria": "JEE Main/State counseling/College criteria",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Global Institute of Technology & Management (GITM)",
+    "Type": "Private College (Affiliated)",
+    "Primary Fields": "Engineering, Management, Commerce",
+    "Admission Criteria": "Merit / Entrance (JEE/State)",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "BM Group of Institutions",
+    "Type": "Private College (Affiliated)",
+    "Primary Fields": "Engineering, Management, Pharmacy",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "KIIT College of Engineering (Gurgaon)",
+    "Type": "Private College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / College criteria",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Jhankar Group of Colleges",
+    "Type": "Private College (Affiliated)",
+    "Primary Fields": "Commerce, Management, Computer Applications",
+    "Admission Criteria": "Merit / College-specific",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Indian School of Hospitality (ISH)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Hospitality & Hotel Management (BHM)",
+    "Admission Criteria": "Merit / University rules",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Mewat Engineering College (Nuh)",
+    "Type": "Engineering College (Affiliated to state university)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE Main / State quota",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Govt. College  Pataudi",
+    "Type": "Government College (Affiliated)",
+    "Primary Fields": "Multi-discipilanary",
+    "Admission Criteria": "Merit based",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Govt. College  Sidhrawali",
+    "Type": "Government College (Affiliated)",
+    "Primary Fields": "Multi-discipilanary",
+    "Admission Criteria": "Merit based",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "State Institute of Advanced Studies in Teacher Education (SIASTE)",
+    "Type": "Government Institute",
+    "Primary Fields": "B.Ed, Teacher Education",
+    "Admission Criteria": "University/NCTE criteria",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Paramount Institute of Technology and Management",
+    "Type": "Private College (Affiliated)",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE/State entrance or merit",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "SOIL School of Inspired Leadership (SOIL Gurgaon)",
+    "Type": "Management School (Private)",
+    "Primary Fields": "Leadership, Management",
+    "Admission Criteria": "Institute-specific selection",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Masters' Union (Gurgaon campus)",
+    "Type": "Private (Academic Program)",
+    "Primary Fields": "Management & Tech integrated programs",
+    "Admission Criteria": "Application / Interview",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Ansals Group Institutions (various)",
+    "Type": "Private Colleges/Universities",
+    "Primary Fields": "Architecture, Management, Design",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "GD Goenka World Institute (components)",
+    "Type": "Private College/University components",
+    "Primary Fields": "Law, Management, Engineering",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "MDI Gurgaon (campus listed separately)",
+    "Type": "Management Institute",
+    "Primary Fields": "PGDM, Executive Education",
+    "Admission Criteria": "CAT / Institute process",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "SOIL & GLIM (other private management institutes)",
+    "Type": "Private Management Colleges",
+    "Primary Fields": "Management, HR, Leadership",
+    "Admission Criteria": "Institute selection process",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Other affiliated colleges (sample from Gurugram University list - e.g.  Jhankar College",
+    "Type": " Global Institute",
+    "Primary Fields": "Varied: Arts, Commerce, Science, Professional",
+    "Admission Criteria": "Merit / Program-specific entrance",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Small private institutes & vocational colleges (representative)",
+    "Type": "Private Institutes",
+    "Primary Fields": "Vocational courses, diplomas, certificates",
+    "Admission Criteria": "Institute-specific",
+    "City": "Gurugram",
+    "State": "Haryana"
+  },
+  {
+    "Institution": "Panjab University",
+    "Type": "Public University",
+    "Primary Fields": "UGC; NAAC; NIRF-ranked",
+    "Admission Criteria": "University entrance/merit; department-specific",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Punjab Engineering College (PEC) University of Technology",
+    "Type": "Deemed-to-be University",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE/Institute entrance / PEC admission process",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Chandigarh College of Architecture (CCA)",
+    "Type": "Constituent College (PU)",
+    "Primary Fields": "Architecture",
+    "Admission Criteria": "Entrance (NATA/Institute) + merit as per PU",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Chandigarh College of Engineering & Technology (CCET)",
+    "Type": "Constituent College (PU)",
+    "Primary Fields": "Engineering, Technology, Polytechnic",
+    "Admission Criteria": "PU/State counseling & merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "University Institute of Engineering & Technology (UIET)",
+    "Type": "PU Constituent/Institute",
+    "Primary Fields": "Engineering and Technology",
+    "Admission Criteria": "PU entrance / merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "DAV College (Panjab University affiliated)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Science, Commerce, Arts",
+    "Admission Criteria": "PU-based merit & counseling",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Goswami Ganesh Dutta Sanatan Dharma College (GGDSD)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "PU merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "MCM DAV College for Women",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "PU merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Dev Samaj College for Women",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "PU merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Government College of Commerce & Business Administration (GCCBA)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Management",
+    "Admission Criteria": "Merit; PU counseling",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Government College of Art",
+    "Type": "Government College (Constituent/Affiliated)",
+    "Primary Fields": "Arts",
+    "Admission Criteria": "Merit / Portfolio where applicable",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Chandigarh Group of Colleges (various institutes nearby)",
+    "Type": "Private Group of Colleges",
+    "Primary Fields": "Engineering, Management, Pharmacy",
+    "Admission Criteria": "JEE/State entrance / institute criteria",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Indo-Swiss Training Centre (ISTC)",
+    "Type": "Autonomous/Training Institute",
+    "Primary Fields": "Industrial Training, Technical Courses",
+    "Admission Criteria": "Institute-specific",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "National Institute of Technical Teachers Training & Research (NITTTR)",
+    "Type": "Autonomous Institute (Govt.)",
+    "Primary Fields": "Technical Teaching",
+    "Admission Criteria": "Institute selection",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Chandigarh Institute of Hotel Management & Catering Technology (CIHMCT)",
+    "Type": "Institute (Affiliated/PU)",
+    "Primary Fields": "Hospitality & Hotel Management",
+    "Admission Criteria": "Entrance/merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Private vocational & training institutes (representative)",
+    "Type": "Private Institutes",
+    "Primary Fields": "Vocational, Diploma, Certificate courses",
+    "Admission Criteria": "Institute-specific",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Khalsa College (nearby Mohali/Chandigarh area) - note jurisdiction",
+    "Type": "Affiliated College",
+    "Primary Fields": "Technology, Business Studies",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Institute of Microbial Technology (IMTECH) - CSIR",
+    "Type": "Research Institute (Autonomous)",
+    "Primary Fields": "Biotechnology, Microbiology",
+    "Admission Criteria": "Fellowships/BI recruitment",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "PGIMER Chandigarh (Post Graduate Institute of Medical Education & Research) ",
+    "Type": "Autonomous Medical Institute",
+    "Primary Fields": "Medical, Research, Super-speciality",
+    "Admission Criteria": "NEET-PG/NEET and institute selection",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Government Medical College & Hospital (GMCH-32",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medical",
+    "Admission Criteria": "NEET-based admission",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "NIILM / Other private management institutes (representative)",
+    "Type": "Private Institute",
+    "Primary Fields": "Management, Business",
+    "Admission Criteria": "Institute selection / entrance",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Various B.Ed and teacher education colleges affiliated to PU",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Teacher Education (B.Ed)",
+    "Admission Criteria": "Joint B.Ed admissions (PU portal)",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Allied health and paramedical institutes (multiple)",
+    "Type": "Private/Govt Institutes",
+    "Primary Fields": "Nursing, Paramedical, Pharmacy",
+    "Admission Criteria": "Entrance/merit",
+    "City": "Chandigarh",
+    "State": "Chandigarh"
+  },
+  {
+    "Institution": "Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU)",
+    "Type": "Public State University",
+    "Primary Fields": "Arts, Science, Commerce, Law, Management, Education",
+    "Admission Criteria": "Merit / University entrance / Department-specific",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Visvesvaraya National Institute of Technology (VNIT) Nagpur",
+    "Type": "National Institute of Technology (NIT)",
+    "Primary Fields": "Engineering, Science, Architecture",
+    "Admission Criteria": "JEE Main/JoSAA",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "IIM Nagpur",
+    "Type": "Management Institute (Autonomous)",
+    "Primary Fields": "Management, PG programs, Executive Education",
+    "Admission Criteria": "CAT / Institute selection processes",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Yeshwantrao Chavan College of Engineering (YCCE)",
+    "Type": "Autonomous Engineering College (Affiliated to RTMNU)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE / MHT-CET / Institute criteria",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Priyadarshini College of Engineering (PCE)",
+    "Type": "Private Engineering College (Affiliated)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE / MHT-CET / Merit",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "G H Raisoni Institute of Engineering & Technology (GHRIE&T)",
+    "Type": "Private Engineering College (Group)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE / MHT-CET / Institute admissions",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Datta Meghe Institute of Higher Education & Research (DMIMER/DMIHER) - Nagpur region",
+    "Type": "Deemed-to-be University (Group)",
+    "Primary Fields": "Medical, Dental, Pharmacy, Management, Engineering",
+    "Admission Criteria": "NEET (for medical) / Institute-specific",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Government Medical College",
+    "Type": " Nagpur (GMC Nagpur)",
+    "Primary Fields": "Medical College",
+    "Admission Criteria": "NEET (UG/PG)",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Dr. Panjabrao Deshmukh Krishi Vidyapeeth - College of Agriculture",
+    "Type": "State Agricultural University (College)",
+    "Primary Fields": "ICAR/UGC/State University linkage",
+    "Admission Criteria": "Entrance / Merit (University-specific)",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "G H Raisoni College of Engineering (GHRCET) - separate group campuses",
+    "Type": "Private Engineering/Management Colleges",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE / MHT-CET / Institute",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Institute of Management Technology (IMT) Nagpur",
+    "Type": "Private Management Institute",
+    "Primary Fields": "Management, PGDM",
+    "Admission Criteria": "CAT/XAT/Institute process",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Rajiv Gandhi College of Engineering (various Nagpur colleges)",
+    "Type": "Private/Autonomous Colleges",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "Entrance/Merit",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Government College of Pharmacy",
+    "Type": "Government Pharmacy College",
+    "Primary Fields": "Medical",
+    "Admission Criteria": "Entrance / Merit",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "SNDT / St. Vincent Pallotti College of Engineering (SVPCET)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE / MHT-CET",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Govt. V. Y. T. PG College / Local Arts & Science Colleges (representative)",
+    "Type": "Government/Affiliated Colleges",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "Merit (RTMNU admission rules)",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Wainganga College of Engineering and Management",
+    "Type": "Private Engineering College (Affiliated)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE / MHT-CET / Institute criteria",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Tulsiramji Gaikwad-Patil College of Engineering & Technology (TGPCET)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "JEE / MHT-CET",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Vidya Niketan Institute of Engineering and Technology (VNIET)",
+    "Type": "Private Engineering College",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "JEE / MHT-CET",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Smt. Rajshree Mulak College of Engineering for Women",
+    "Type": "Private Women's Engineering College",
+    "Primary Fields": "Engineering (Women-only)",
+    "Admission Criteria": "JEE / MHT-CET",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Various Polytechnic & Vocational Institutes (representative)",
+    "Type": "Polytechnic / Vocational",
+    "Primary Fields": "Diplomas in Engineering, ITI trades, Vocational courses",
+    "Admission Criteria": "Merit / Entrance (where applicable)",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Research Institutes (e.g. CSIR / ICAR centres in region)",
+    "Type": "Research Institutes (Autonomous/Govt.)",
+    "Primary Fields": "CSIR/ICAR/MoA approvals",
+    "Admission Criteria": "Fellowship/Recruitment",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Nagpur Mahavidyalaya groups (arts/commerce colleges affiliated to RTMNU)",
+    "Type": "Affiliated Colleges",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "RTMNU merit-based admissions",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "Private management",
+    "Type": " law",
+    "Primary Fields": "Management, Law, Education (B.Ed)",
+    "Admission Criteria": "AICTE/NCTE/Bar Council Entrance",
+    "City": "Nagpur",
+    "State": "Maharashtra"
+  },
+  {
+    "Institution": "University of Calicut (Calicut University)",
+    "Type": "Public State University",
+    "Primary Fields": "Arts, Science, Commerce, Education, Law, Management",
+    "Admission Criteria": "University entrance/merit",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "National Institute of Technology Calicut (NIT Calicut)",
+    "Type": "NIT (Institute of National Importance)",
+    "Primary Fields": "Engineering, Architecture, Science, Management",
+    "Admission Criteria": "JEE Main / JoSAA",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Indian Institute of Management Kozhikode (IIMK)",
+    "Type": "Autonomous Management Institute",
+    "Primary Fields": "Management, Executive Education, Research",
+    "Admission Criteria": "CAT / Institute selection procedures",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government Medical College",
+    "Type": " Kozhikode (Calicut Medical College)",
+    "Primary Fields": "Medical College",
+    "Admission Criteria": "NEET-UG / State counseling",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Farook College",
+    "Type": " Feroke (Autonomous",
+    "Primary Fields": "Arts, Science, Commerce, PG Programmes",
+    "Admission Criteria": "University/college-specific merit and entrance ",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government Arts & Science College",
+    "Type": "Government College (Affiliated)",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "Merit / University admission",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "AWH Engineering College",
+    "Type": "Private Engineering College (Affiliated)",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "MHT-CET ",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "KMCT Group of Institutions ",
+    "Type": "Private Group ",
+    "Primary Fields": "Engineering, Medical, Management, Pharmacy",
+    "Admission Criteria": "Entrance tests: JEE/NEET/CET/Institute-specific",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government Law College",
+    "Type": "Government Law College (Affiliated)",
+    "Primary Fields": "Law",
+    "Admission Criteria": "University/entrance as per state rules",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "College of Applied Science (IHRD) - Kozhikode (various centers)",
+    "Type": "Government-aided applied science colleges",
+    "Primary Fields": "Computer Applications, Commerce, Science",
+    "Admission Criteria": "University merit/college-specific",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government Engineering College",
+    "Type": "Government Engineering College",
+    "Primary Fields": "Engineering",
+    "Admission Criteria": "KCET / State engineering entrance (Kerala)",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "KMCT Medical College (part of KMCT group)",
+    "Type": "Private Medical College (Deemed/Collegiate)",
+    "Primary Fields": "MBBS, Medical Sciences (if applicable)",
+    "Admission Criteria": "NEET-based admission",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Sree Kerala Varma College - (note: primarily Thrissur region)",
+    "Type": "Included for broader affiliated list",
+    "Primary Fields": "Arts & Science",
+    "Admission Criteria": "Merit",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Various Polytechnic & Vocational Institutes (representative)",
+    "Type": "Polytechnic / Vocational",
+    "Primary Fields": "Diplomas in Engineering, ITI trades, Vocational courses",
+    "Admission Criteria": "Merit / Entrance",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Research & specialized institutes ",
+    "Type": "Research Institutes",
+    "Primary Fields": "CSIR/ICAR/KSCSTE/State approvals as applicable",
+    "Admission Criteria": "Fellowship/selection",
+    "City": "Kozhikode",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "APJ Abdul Kalam Technological University (KTU) - HQ",
+    "Type": "State Technological University",
+    "Primary Fields": "Engineering, Technology, Architecture, Applied Sciences",
+    "Admission Criteria": "KEAM / JEE Main ",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Indian Institute of Space Science and Technology (IIST)",
+    "Type": "Deemed / Government Institute",
+    "Primary Fields": "Space Technology",
+    "Admission Criteria": "JEE Advanced/Institute selection / ISRO-linked admissions",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Indian Institute of Science Education and Research (IISER) Thiruvananthapuram",
+    "Type": "Autonomous Research Institute",
+    "Primary Fields": "Science, Research, MSc/PhD",
+    "Admission Criteria": "IISER admissions (KVPY/JEE/SCB/Institute-specific)",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "College of Engineering Trivandrum (CET)",
+    "Type": "Government Engineering College (Affiliated to KTU)",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KEAM / JEE / State counselling",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "All India Institute of Medical Sciences (AIIMS) Thiruvananthapuram",
+    "Type": "Autonomous Medical Institute (AIIMS)",
+    "Primary Fields": "Medical, Research, Super-speciality",
+    "Admission Criteria": "NEET-UG/NEET-PG for admissions",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government Medical College",
+    "Type": "Government Medical College",
+    "Primary Fields": "Medical",
+    "Admission Criteria": "NEET-based admissions / State counselling",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Sree Chitra Tirunal Institute for Medical Sciences & Technology (SCTIMST)",
+    "Type": "Autonomous Research & Medical Institute (Govt.)",
+    "Primary Fields": "Biomedical Research, Medical Technology",
+    "Admission Criteria": "Institute-specific selection / fellowships",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "University College Thiruvananthapuram (affiliated to Kerala University)",
+    "Type": "Constituent College (Kerala University)",
+    "Primary Fields": "Undergraduate Arts, Science, Commerce",
+    "Admission Criteria": "Kerala University admission / merit",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Mar Ivanios College",
+    "Type": "Affiliated College (Kerala University)",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "Kerala University centralized admission / merit",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Mahatma Gandhi College (MG College)",
+    "Type": "Affiliated College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University merit",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Government College for Women",
+    "Type": "Government Affiliated College",
+    "Primary Fields": "Affiliated to University of Kerala",
+    "Admission Criteria": "University merit",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "St. Xavier's College",
+    "Type": "Affiliated College",
+    "Primary Fields": "Multi-Disciplinary",
+    "Admission Criteria": "University merit",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Kerala University of Health Sciences (KUHS) ",
+    "Type": "State Health University (affiliating for medical)",
+    "Primary Fields": "Medical, Dental, Nursing, Pharmacy, Allied Health",
+    "Admission Criteria": "NEET-based / KUHS processes",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Kerala University Engineering & Technology department",
+    "Type": "Affiliated Engineering Colleges",
+    "Primary Fields": "Engineering, Technology",
+    "Admission Criteria": "KEAM / JEE / Institute criteria",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Rajiv Gandhi Centre for Biotechnology (RGCB)",
+    "Type": "Research Institute (Govt.)",
+    "Primary Fields": "Biotechnology, Research",
+    "Admission Criteria": "Fellowship / project-based recruitment",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Polytechnic & Vocational Institutes (multiple)",
+    "Type": "Polytechnic / Vocational",
+    "Primary Fields": "Diplomas in Engineering, ITI trades, Vocational courses",
+    "Admission Criteria": "Merit / Entrance (where applicable)",
+    "City": "Thiruvananthapuram",
+    "State": "Kerala"
+  },
+  {
+    "Institution": "Banaras Hindu University (BHU)",
+    "Type": "Central University",
+    "Primary Fields": "Arts, Science, Commerce, Engineering, Medicine, Management, Law, Performing Arts",
+    "Admission Criteria": "CUET ; (JEE/NEET/GATE )",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Technology (BHU)",
+    "Type": " Varanasi",
+    "Primary Fields": "Institute of National Importance (IIT,AICTE/NBA)",
+    "Admission Criteria": "JEE Advanced / JoSAA for UG; GATE for PG",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Institute of Medical Sciences",
+    "Type": " BHU (IMS-BHU)",
+    "Primary Fields": "Medical Institute ( Affiliated to BHU)",
+    "Admission Criteria": "NEET-UG / NEET-PG / Institute processes",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Mahatma Gandhi Kashi Vidyapith (MGKVP)",
+    "Type": "State University",
+    "Primary Fields": "Arts, Science, Commerce, Education, Management, Law",
+    "Admission Criteria": "CUET for some programs; merit-based admissions",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Sampurnanand Sanskrit Vishwavidyalaya (SSSV)",
+    "Type": "State University (Sanskrit)",
+    "Primary Fields": "Sanskrit, Ayurveda, Vedic Studies",
+    "Admission Criteria": "University entrance / merit; subject-specific tests",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Central Institute of Higher Tibetan Studies (CIHTS)",
+    "Type": "Autonomous Institute",
+    "Primary Fields": "Tibetan Studies, Humanities, Social Sciences",
+    "Admission Criteria": "Institute-specific application / selection",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Udai Pratap Autonomous College",
+    "Type": "Autonomous College ",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University/College merit-based admissions",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Harish Chandra Postgraduate College",
+    "Type": "Affiliated College (MGKVP)",
+    "Primary Fields": "Arts, Science, Commerce, Vocational",
+    "Admission Criteria": "University/college merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "DAV Post Graduate College",
+    "Type": "Affiliated College (BHU/MGKVP )",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "University/college merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Arya Mahila P.G. College",
+    "Type": "Affiliated College (BHU list)",
+    "Primary Fields": "Arts, Commerce, Science",
+    "Admission Criteria": "University/college merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Vasant Kanya Mahavidyalaya",
+    "Type": "Affiliated College (BHU)",
+    "Primary Fields": "Arts, Science, Commerce, Music",
+    "Admission Criteria": "University/college merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Udai Pratap Autonomous College - Science & Arts",
+    "Type": "Autonomous College",
+    "Primary Fields": "Science, Arts",
+    "Admission Criteria": "University/college merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Heritage Institute of Medical Sciences (HIMS)",
+    "Type": "Private Medical College",
+    "Primary Fields": "NMC/State approvals; Private institute",
+    "Admission Criteria": "NEET-UG / State counseling",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Kashi Institute of Technology (KIT)",
+    "Type": "Private  College",
+    "Primary Fields": " Affiliated to university (MGKVP/State)",
+    "Admission Criteria": "JEE Main / State entrance,CAT",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Rajarshi School of Management and Technology (RSMT)",
+    "Type": "Private Institute",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE Main / Institute criteria",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Banaras Institute of Polytechnic and Engineering",
+    "Type": "Private Polytechnic/Engineering",
+    "Primary Fields": "Diploma/Engineering",
+    "Admission Criteria": "Diploma/entrance / merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "National Seed Research and Training Centre (research unit)",
+    "Type": "Research Institute",
+    "Primary Fields": "Agricultural research, Seed technology",
+    "Admission Criteria": "Project-based recruitment / fellowships",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Indian Institute of Handloom Technology (IIHT) Varanasi",
+    "Type": "Central/Autonomous Institute",
+    "Primary Fields": "Textile / Handloom Technology",
+    "Admission Criteria": "Institute-specific selection",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Shri Krishna Ayurvedic Medical College and Hospital",
+    "Type": "Ayurvedic Medical College",
+    "Primary Fields": "BAMS, Ayurvedic studies",
+    "Admission Criteria": "Entrance (Ayush/State) / merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Udai Pratap Autonomous College (duplicate removed)",
+    "Type": "Autonomous College",
+    "Primary Fields": "Arts, Science, Commerce",
+    "Admission Criteria": "Merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Jeevandeep Institute of Management & Technology",
+    "Type": "Private College",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE/Main or institute entrance",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Microtek College of Technology and Management",
+    "Type": "Private Engineering/Management",
+    "Primary Fields": "Engineering, Management",
+    "Admission Criteria": "JEE/State entrance or merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Heritage Group & Other private colleges (representative entries)",
+    "Type": "Private Colleges",
+    "Primary Fields": "Varied: Arts, Commerce, Engineering, Pharmacy",
+    "Admission Criteria": "Entrance/merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "National School of Drama - Varanasi Centre (NSD regional)",
+    "Type": "Autonomous Cultural Institute",
+    "Primary Fields": "Performing Arts, Drama",
+    "Admission Criteria": "Institute auditions/selection",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Institute of Agricultural Sciences (BHU faculty)",
+    "Type": "Faculty/Institute within BHU",
+    "Primary Fields": "Agricultural Sciences, Research",
+    "Admission Criteria": "University/ICAR-linked admissions",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  },
+  {
+    "Institution": "Faculty of Arts",
+    "Type": "Faculty (BHU)",
+    "Primary Fields": "Humanities, Social Sciences",
+    "Admission Criteria": "CUET/BHU entrance or university merit",
+    "City": "Varanasi",
+    "State": "Uttar Pradesh"
+  }
+]

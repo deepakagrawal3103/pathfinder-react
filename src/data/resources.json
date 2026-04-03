@@ -1,0 +1,29 @@
+[
+  {
+    "interest": "Engineering & Technology",
+    "subjects": ["Computer Science", "Algorithms"],
+    "resources": [
+      {
+        "title": "CS50 – Harvard",
+        "platform": "YouTube",
+        "link": "https://www.youtube.com/c/cs50"
+      },
+      {
+        "title": "NPTEL Programming",
+        "platform": "NPTEL",
+        "link": "https://nptel.ac.in"
+      }
+    ]
+  },
+  {
+    "interest": "Medical & Healthcare",
+    "subjects": ["Anatomy", "Physiology"],
+    "resources": [
+      {
+        "title": "Anatomy Basics",
+        "platform": "Khan Academy",
+        "link": "https://www.khanacademy.org/science/health-and-medicine"
+      }
+    ]
+  }
+]
