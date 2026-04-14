@@ -22,7 +22,7 @@ const __dirname = path.dirname(__filename);
 /* =========================
    ENV
 ========================= */
-dotenv.config({ path: path.join(__dirname, ".env") });
+dotenv.config({ path: path.join();
 console.log("OPENROUTER KEY LOADED:", !!process.env.OPENROUTER_API_KEY);
 
 /* =========================
